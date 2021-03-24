@@ -10,7 +10,6 @@ import pandas as pd
 import psycopg2
 from app import app
 from tabs import sidepanel, tab1, tab2
-from database import transforms
 
 #import the API keys from the config file, or from Heroku config vars.
 try:

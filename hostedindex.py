@@ -8,7 +8,7 @@ import dash_bootstrap_components as dbc
 import sqlite3
 import pandas as pd
 import psycopg2
-from app import app
+from app import app, server
 from tabs import sidepanel, tab1, tab2
 import os
 #import the API keys from the config file, or from Heroku config vars.
@@ -16,7 +16,6 @@ try:
     from config import dbname, db_user, host, db_password, sslmode
 except ModuleNotFoundError:
     host = os.environ['HOST']
-    print(host)
     dbname = os.environ['DB_NAME']
     db_user = os.environ['DB_USER']
     db_password = os.environ['DB_PASSWORD']

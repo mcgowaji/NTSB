@@ -10,7 +10,7 @@ import pandas as pd
 import psycopg2
 from app import app
 from tabs import sidepanel, tab1, tab2
-
+import os
 #import the API keys from the config file, or from Heroku config vars.
 try:
     from config import dbname, db_user, host, db_password, sslmode

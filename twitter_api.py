@@ -9,6 +9,7 @@ import tweepy
 import csv
 import psycopg2
 from unidecode import unidecode
+import os
 
 #import the API keys from the config file, or from Heroku config vars.
 try:

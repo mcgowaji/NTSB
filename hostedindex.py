@@ -16,6 +16,7 @@ try:
     from config import dbname, db_user, host, db_password, sslmode
 except ModuleNotFoundError:
     host = os.environ['HOST']
+    print(host)
     dbname = os.environ['DB_NAME']
     db_user = os.environ['DB_USER']
     db_password = os.environ['DB_PASSWORD']

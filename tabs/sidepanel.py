@@ -8,7 +8,6 @@ import pandas
 from dash.dependencies import Input, Output
 from app import app
 from tabs import tab1, tab2
-from database import transforms
 
 colors = {
     # 'background': '#e5e5e5',

@@ -10,11 +10,23 @@ import csv
 import psycopg2
 from unidecode import unidecode
 
-#import the API keys from the config file.
-from config import (
-    con_key, con_sec, acc_key, acc_sec,
-host, dbname, db_user, db_password, sslmode
-)
+#import the API keys from the config file, or from Heroku config vars.
+try:
+    from config import (
+        con_key, con_sec, acc_key, acc_sec,
+    host, dbname, db_user, db_password, sslmode
+    )
+except ModuleNotFoundError:
+    con_key = os.environ['CON_KEY']
+    con_sec = os.environ['CON_SEC']
+    acc_key = os.environ['ACC_KEY']
+    acc_sec = os.environ['ACC_SEC']
+    host = os.environ['HOST']
+    dbname = os.environ['DB_NAME']
+    db_user = os.environ['DB_USER']
+    db_password = os.environ['DB_PASSWORD']
+    sslmode = os.environ['SSL_MODE']
+    
 
 #Popular hashtags extracted from Parler Dataset
 popular = [

@@ -11,10 +11,18 @@ import psycopg2
 from app import app
 from tabs import sidepanel, tab1, tab2
 from database import transforms
-from config import dbname, db_user, host, db_password, sslmode
 
+#import the API keys from the config file, or from Heroku config vars.
+try:
+    from config import dbname, db_user, host, db_password, sslmode
+except ModuleNotFoundError:
+    host = os.environ['HOST']
+    dbname = os.environ['DB_NAME']
+    db_user = os.environ['DB_USER']
+    db_password = os.environ['DB_PASSWORD']
+    sslmode = os.environ['SSL_MODE']
 
-#Run Streaming script asynchronously to keep stream live
+#Run Streaming script asynchronously for live updates
 script_fn = 'twitter_api.py'
 exec(open(script_fn).read())
     

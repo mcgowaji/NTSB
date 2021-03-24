@@ -1,0 +1,2516 @@
+{
+    "nodes": [
+        {
+            "id": "BernieSanders",
+            "name": "Bernie Sanders",
+            "size": 15209200
+        },
+        {
+            "id": "BAmazonUnion",
+            "name": "BAmazonUnion",
+            "size": 17981
+        },
+        {
+            "id": "LaurenKGurley",
+            "name": "Lauren Kaori Gurley",
+            "size": 13699
+        },
+        {
+            "id": "ryanobles",
+            "name": "Ryan Nobles",
+            "size": 50506
+        },
+        {
+            "id": "CoriBush",
+            "name": "Cori Bush",
+            "size": 798055
+        },
+        {
+            "id": "nick_brana",
+            "name": "Nick Brana - #PeoplesParty",
+            "size": 19396
+        },
+        {
+            "id": "JoeBiden",
+            "name": "Joe Biden",
+            "size": 29591720
+        },
+        {
+            "id": "amazon",
+            "name": "Amazon",
+            "size": 3612237
+        },
+        {
+            "id": "GaryGrumbach",
+            "name": "Gary Grumbach",
+            "size": 11867
+        },
+        {
+            "id": "POTUS",
+            "name": "President Biden",
+            "size": 9399641
+        },
+        {
+            "id": "dmedin11",
+            "name": "Daniel Medina",
+            "size": 4461
+        },
+        {
+            "id": "ProudSocialist",
+            "name": "Ryan Knight ☭",
+            "size": 361317
+        },
+        {
+            "id": "ggreenwald",
+            "name": "Glenn Greenwald",
+            "size": 1600621
+        },
+        {
+            "id": "joelpollak",
+            "name": "Joel Pollak",
+            "size": 167254
+        },
+        {
+            "id": "onefairwage",
+            "name": "One Fair Wage",
+            "size": 4275
+        },
+        {
+            "id": "AOC",
+            "name": "Alexandria Ocasio-Cortez",
+            "size": 12684574
+        },
+        {
+            "id": "jamieson",
+            "name": "Dave Jamieson",
+            "size": 21272
+        },
+        {
+            "id": "OurRevolution",
+            "name": "Our Revolution",
+            "size": 150958
+        },
+        {
+            "id": "pierce",
+            "name": "David Pierce",
+            "size": 70208
+        },
+        {
+            "id": "AliKaung",
+            "name": "Muhammad Ali Kaung",
+            "size": 885
+        },
+        {
+            "id": "yeselson",
+            "name": "Richard Yeselson",
+            "size": 15187
+        },
+        {
+            "id": "ezraklein",
+            "name": "Ezra Klein",
+            "size": 2714135
+        },
+        {
+            "id": "DruidicM",
+            "name": "A tinfoil hat wearing conspiracy theorist.",
+            "size": 485
+        },
+        {
+            "id": "SpeakerPelosi",
+            "name": "Nancy Pelosi",
+            "size": 7067298
+        },
+        {
+            "id": "BarackObama",
+            "name": "Barack Obama",
+            "size": 130071295
+        },
+        {
+            "id": "Twitter",
+            "name": "Twitter",
+            "size": 59450115
+        },
+        {
+            "id": "VP",
+            "name": "Vice President Kamala Harris",
+            "size": 9637440
+        },
+        {
+            "id": "KamalaHarris",
+            "name": "Kamala Harris",
+            "size": 18046055
+        },
+        {
+            "id": "HillaryClinton",
+            "name": "Hillary Clinton",
+            "size": 30959582
+        },
+        {
+            "id": "ryangrim",
+            "name": "Ryan Grim",
+            "size": 195591
+        },
+        {
+            "id": "leclerc_alex",
+            "name": "Alex Leclerc",
+            "size": 245
+        },
+        {
+            "id": "JustTheNews",
+            "name": "Just the News",
+            "size": 88667
+        },
+        {
+            "id": "RepAdamSchiff",
+            "name": "Adam Schiff",
+            "size": 2932854
+        },
+        {
+            "id": "CoryBooker",
+            "name": "Cory Booker",
+            "size": 4962713
+        },
+        {
+            "id": "SenSchumer",
+            "name": "Chuck Schumer",
+            "size": 3221047
+        },
+        {
+            "id": "SenatorDurbin",
+            "name": "Senator Dick Durbin",
+            "size": 727912
+        },
+        {
+            "id": "voteblue77",
+            "name": "vote blue",
+            "size": 10595
+        },
+        {
+            "id": "RedBeretsM4All",
+            "name": "#RedBerets🧶",
+            "size": 24997
+        },
+        {
+            "id": "People4Bernie",
+            "name": "People for Bernie",
+            "size": 273214
+        },
+        {
+            "id": "aid_smx",
+            "name": "Aidan Smith",
+            "size": 26735
+        },
+        {
+            "id": "TheBlueBirdSuc2",
+            "name": "every human deserves human rights",
+            "size": 20
+        },
+        {
+            "id": "ewarren",
+            "name": "Elizabeth Warren",
+            "size": 5734121
+        },
+        {
+            "id": "ninaturner",
+            "name": "Nina Turner",
+            "size": 462644
+        },
+        {
+            "id": "elonmusk",
+            "name": "Elon Musk",
+            "size": 49559756
+        },
+        {
+            "id": "SenatorCollins",
+            "name": "Sen. Susan Collins",
+            "size": 563125
+        },
+        {
+            "id": "TulsiGabbard",
+            "name": "Tulsi Gabbard 🌺",
+            "size": 1074425
+        },
+        {
+            "id": "JordanChariton",
+            "name": "Jordan",
+            "size": 114441
+        },
+        {
+            "id": "CNN",
+            "name": "CNN",
+            "size": 53321567
+        },
+        {
+            "id": "SenWarren",
+            "name": "Elizabeth Warren",
+            "size": 6948192
+        },
+        {
+            "id": "nytopinion",
+            "name": "New York Times Opinion",
+            "size": 789574
+        },
+        {
+            "id": "M4ACalifornia",
+            "name": "#MedicareforAll has 87% Dem support",
+            "size": 1735
+        },
+        {
+            "id": "fshakir",
+            "name": "Faiz",
+            "size": 112651
+        },
+        {
+            "id": "jz_lito",
+            "name": "Loui L James",
+            "size": 1
+        },
+        {
+            "id": "Jasonmi35415003",
+            "name": "Jason Mills",
+            "size": 6
+        },
+        {
+            "id": "OVargas52",
+            "name": "Ollie Vargas",
+            "size": 27013
+        },
+        {
+            "id": "SecBecerra",
+            "name": "Secretary Xavier Becerra",
+            "size": 4645
+        },
+        {
+            "id": "sohornyloljk",
+            "name": "having fun",
+            "size": 125
+        },
+        {
+            "id": "ossoff",
+            "name": "Jon Ossoff",
+            "size": 1206560
+        },
+        {
+            "id": "MartyJWalsh",
+            "name": "Marty Walsh",
+            "size": 19172
+        },
+        {
+            "id": "NotCaseyWebb",
+            "name": "♿ Casey Webb",
+            "size": 190
+        },
+        {
+            "id": "DylanJCarty",
+            "name": "No mask = low IQ",
+            "size": 170
+        },
+        {
+            "id": "tdmahaf",
+            "name": "Dane Mahaffey",
+            "size": 32
+        },
+        {
+            "id": "SenSanders",
+            "name": "Bernie Sanders",
+            "size": 12132085
+        },
+        {
+            "id": "WhiteHouse",
+            "name": "The White House",
+            "size": 5033030
+        },
+        {
+            "id": "danielmarans",
+            "name": "Daniel Marans",
+            "size": 18034
+        },
+        {
+            "id": "banditelli",
+            "name": "Brett \"Unions 2021\" Banditelli",
+            "size": 20797
+        },
+        {
+            "id": "CornelWest",
+            "name": "Cornel West",
+            "size": 1036524
+        },
+        {
+            "id": "jzink0883",
+            "name": "JPZ",
+            "size": 137
+        },
+        {
+            "id": "msveefh",
+            "name": "",
+            "size": 9
+        },
+        {
+            "id": "fromjoetoyou",
+            "name": "no more murder",
+            "size": 407
+        },
+        {
+            "id": "NavPersaud",
+            "name": "Nav Persaud",
+            "size": 2875
+        },
+        {
+            "id": "Winston33472001",
+            "name": "Winston",
+            "size": 4
+        },
+        {
+            "id": "EricsElectrons",
+            "name": "Eric",
+            "size": 15959
+        },
+        {
+            "id": "AngelaLMorabito",
+            "name": "Angela Morabito",
+            "size": 6130
+        },
+        {
+            "id": "MorningsMaria",
+            "name": "Mornings with Maria",
+            "size": 165822
+        },
+        {
+            "id": "scottsantens",
+            "name": "Scott Santens 🧢🏄‍♂️",
+            "size": 131803
+        },
+        {
+            "id": "Suzie33506746",
+            "name": "Suzie",
+            "size": 16
+        },
+        {
+            "id": "thehill",
+            "name": "The Hill",
+            "size": 4151456
+        },
+        {
+            "id": "dcexaminer",
+            "name": "Washington Examiner",
+            "size": 270874
+        },
+        {
+            "id": "Ignatio28508119",
+            "name": "Ignatious",
+            "size": 2
+        },
+        {
+            "id": "Breaking911",
+            "name": "Breaking911",
+            "size": 832792
+        },
+        {
+            "id": "BakerHugh",
+            "name": "Michael B",
+            "size": 4749
+        },
+        {
+            "id": "BruceBourgoine",
+            "name": "Bruce Bourgoine",
+            "size": 42257
+        },
+        {
+            "id": "SenTedCruz",
+            "name": "Senator Ted Cruz",
+            "size": 2067401
+        },
+        {
+            "id": "Dale01000803",
+            "name": "Dale",
+            "size": 6
+        },
+        {
+            "id": "Michael__Baskin",
+            "name": "Michael Baskin🇺🇸🇮🇱🇺🇦",
+            "size": 2898
+        },
+        {
+            "id": "ZionistColonist",
+            "name": "Most Moral Army on the Planet ©",
+            "size": 175
+        },
+        {
+            "id": "P3ng1z",
+            "name": "אליענה",
+            "size": 3048
+        },
+        {
+            "id": "amyklobuchar",
+            "name": "Amy Klobuchar",
+            "size": 1663579
+        },
+        {
+            "id": "YouTube",
+            "name": "YouTube",
+            "size": 73120952
+        },
+        {
+            "id": "moatsad71",
+            "name": "Dems are Anti-Worker",
+            "size": 161
+        },
+        {
+            "id": "FLOTUS",
+            "name": "Jill Biden",
+            "size": 2602181
+        },
+        {
+            "id": "shaunking",
+            "name": "Shaun King",
+            "size": 1145822
+        },
+        {
+            "id": "maggieNYT",
+            "name": "Maggie Haberman",
+            "size": 1720099
+        },
+        {
+            "id": "RGeary20",
+            "name": "R.Geary",
+            "size": 19
+        },
+        {
+            "id": "Leftists4Office",
+            "name": "Leftists 4 Office",
+            "size": 1578
+        },
+        {
+            "id": "RepRaskin",
+            "name": "Rep. Jamie Raskin",
+            "size": 307147
+        },
+        {
+            "id": "IRSnews",
+            "name": "IRSnews",
+            "size": 237430
+        },
+        {
+            "id": "SocialSecurity",
+            "name": "Social Security",
+            "size": 78235
+        },
+        {
+            "id": "NYCMayor",
+            "name": "Mayor Bill de Blasio",
+            "size": 1532763
+        },
+        {
+            "id": "FoeckeKeith",
+            "name": "Keith Foecke🔥⚔️🏴☭",
+            "size": 2650
+        },
+        {
+            "id": "LasVegasDSA",
+            "name": "Las Vegas DSA",
+            "size": 4088
+        },
+        {
+            "id": "muntel",
+            "name": "FarOutLeft🌹🌻",
+            "size": 2102
+        },
+        {
+            "id": "AmbassadorTai",
+            "name": "Ambassador Katherine Tai",
+            "size": 5818
+        },
+        {
+            "id": "RepMattGaetz",
+            "name": "Rep. Matt Gaetz",
+            "size": 1281881
+        },
+        {
+            "id": "pauljosephjkass",
+            "name": "Destroy Centrism",
+            "size": 52
+        },
+        {
+            "id": "skrambldeggz78",
+            "name": "captain stankyleg",
+            "size": 46
+        },
+        {
+            "id": "Britneyfan54",
+            "name": "Roger Bray",
+            "size": 88
+        },
+        {
+            "id": "JohnCornyn",
+            "name": "Senator John Cornyn",
+            "size": 300318
+        },
+        {
+            "id": "fabfashionista8",
+            "name": "a beltran",
+            "size": 2225
+        },
+        {
+            "id": "PostOpinions",
+            "name": "Washington Post Opinions",
+            "size": 80878
+        },
+        {
+            "id": "ceprdc",
+            "name": "CEPR",
+            "size": 48074
+        },
+        {
+            "id": "camilapress",
+            "name": "Camila",
+            "size": 8406
+        },
+        {
+            "id": "evoespueblo",
+            "name": "Evo Morales Ayma",
+            "size": 1209729
+        },
+        {
+            "id": "washingtonpost",
+            "name": "The Washington Post",
+            "size": 17772964
+        },
+        {
+            "id": "BillClinton",
+            "name": "Bill Clinton",
+            "size": 13295158
+        },
+        {
+            "id": "USArmy",
+            "name": "U.S. Army",
+            "size": 1711141
+        },
+        {
+            "id": "CIA",
+            "name": "CIA",
+            "size": 3268704
+        },
+        {
+            "id": "FBI",
+            "name": "FBI",
+            "size": 3318011
+        },
+        {
+            "id": "Jkylebass",
+            "name": "🇺🇸Kyle Bass🇺🇸",
+            "size": 205208
+        },
+        {
+            "id": "StateDept",
+            "name": "Department of State",
+            "size": 6129415
+        },
+        {
+            "id": "SenBobCasey",
+            "name": "Senator Bob Casey",
+            "size": 437758
+        },
+        {
+            "id": "Rgbblues",
+            "name": "🥈🦺☭ Red-Green-Brown Blues ☭🦺🥈",
+            "size": 124
+        },
+        {
+            "id": "peaceloveandgi2",
+            "name": "Medicare for All, End All Wars, Legalize Marijuana",
+            "size": 166
+        },
+        {
+            "id": "Dalek_fan",
+            "name": "I, for one, welcome our new insect overlords",
+            "size": 3323
+        },
+        {
+            "id": "MTatersalad",
+            "name": "Mr. Third eye gucci",
+            "size": 410
+        },
+        {
+            "id": "lawyer4laws",
+            "name": "Lawyerforlaws",
+            "size": 15182
+        },
+        {
+            "id": "BreitbartNews",
+            "name": "Breitbart News",
+            "size": 1488606
+        },
+        {
+            "id": "RowCro",
+            "name": "Rowynne Crowley",
+            "size": 280
+        },
+        {
+            "id": "ulryfam5",
+            "name": "Buckeyeusa",
+            "size": 56
+        },
+        {
+            "id": "SenateDems",
+            "name": "Senate Democrats",
+            "size": 1188330
+        },
+        {
+            "id": "ozgurzeren",
+            "name": "Ozgur Zeren",
+            "size": 550
+        },
+        {
+            "id": "davidein",
+            "name": "David Einhorn",
+            "size": 57846
+        },
+        {
+            "id": "WallStCynic",
+            "name": "Diogenes",
+            "size": 65970
+        },
+        {
+            "id": "kimbal",
+            "name": "Kimbal Musk",
+            "size": 144289
+        },
+        {
+            "id": "katieporteroc",
+            "name": "Katie Porter",
+            "size": 517217
+        },
+        {
+            "id": "staceyabrams",
+            "name": "Stacey Abrams",
+            "size": 2574767
+        },
+        {
+            "id": "ReverendWarnock",
+            "name": "Reverend Raphael Warnock",
+            "size": 948901
+        },
+        {
+            "id": "PeterAtlantic",
+            "name": "Peter Nicholas",
+            "size": 20150
+        },
+        {
+            "id": "holdengraber",
+            "name": "Paul Holdengraber",
+            "size": 29654
+        },
+        {
+            "id": "DavidCornDC",
+            "name": "David Corn",
+            "size": 937741
+        },
+        {
+            "id": "ProgIntl",
+            "name": "Progressive International",
+            "size": 56547
+        },
+        {
+            "id": "Lawrence",
+            "name": "Lawrence O'Donnell",
+            "size": 2861390
+        },
+        {
+            "id": "kthalps",
+            "name": "Katie Halper",
+            "size": 127832
+        },
+        {
+            "id": "SharnaAisha",
+            "name": "Aisha Sharna",
+            "size": 2624
+        },
+        {
+            "id": "Broom_2",
+            "name": "Dean",
+            "size": 36
+        },
+        {
+            "id": "ibdurk",
+            "name": "ibdurk",
+            "size": 21
+        },
+        {
+            "id": "maartenlen",
+            "name": "Mala",
+            "size": 67
+        },
+        {
+            "id": "filmsonthebayou",
+            "name": "Swamp Thing: God of Used Book Fairs",
+            "size": 1611
+        },
+        {
+            "id": "ACMESalesRep",
+            "name": "ACME Sales Rep",
+            "size": 926
+        },
+        {
+            "id": "amyvanwinkle",
+            "name": "amy vanwinkle",
+            "size": 305
+        },
+        {
+            "id": "zerocrossing",
+            "name": "Zerocrossing",
+            "size": 198
+        },
+        {
+            "id": "ShabanaMir1",
+            "name": "Shabana Mir",
+            "size": 7798
+        },
+        {
+            "id": "BXMutualAidNtwk",
+            "name": "Bronx Mutual Aid Network ✊🏾",
+            "size": 220
+        },
+        {
+            "id": "BAPPnyc",
+            "name": "Bangladeshi Amer for Political Progress (BAPP)",
+            "size": 1845
+        },
+        {
+            "id": "NYCHealthSystem",
+            "name": "NYC Health + Hospitals",
+            "size": 35628
+        },
+        {
+            "id": "aapis4bernie",
+            "name": "AAPIsForBernie",
+            "size": 386
+        },
+        {
+            "id": "MutualAidNYC",
+            "name": "Mutual Aid Network for NYC",
+            "size": 1856
+        },
+        {
+            "id": "cs9030",
+            "name": ".",
+            "size": 29
+        },
+        {
+            "id": "Fleacatt",
+            "name": "🇺🇸🐱😎🇺🇸 Kat met Vlooien 🇺🇸🐱😎🇺🇸",
+            "size": 2886
+        },
+        {
+            "id": "DoingTheMost002",
+            "name": "👊🏽Defund The Khive👊🏽",
+            "size": 224
+        },
+        {
+            "id": "CLEANFISH",
+            "name": "CLEANFISH🌹",
+            "size": 4422
+        },
+        {
+            "id": "SFSWR1",
+            "name": "SFSWR",
+            "size": 325
+        },
+        {
+            "id": "RepRoKhanna",
+            "name": "Rep. Ro Khanna",
+            "size": 105462
+        },
+        {
+            "id": "RepAOC",
+            "name": "Rep. Alexandria Ocasio-Cortez",
+            "size": 638910
+        },
+        {
+            "id": "USProgressives",
+            "name": "Progressive Caucus",
+            "size": 113047
+        },
+        {
+            "id": "navvet96",
+            "name": "Dwight Miller",
+            "size": 220
+        },
+        {
+            "id": "fitzgep1961",
+            "name": "Paul Fitzgerald",
+            "size": 8
+        },
+        {
+            "id": "RrrPeeSRC",
+            "name": "Rich Perkins",
+            "size": 51
+        },
+        {
+            "id": "RBReich",
+            "name": "Robert Reich",
+            "size": 1314819
+        },
+        {
+            "id": "NorthmanTrader",
+            "name": "Sven Henrich",
+            "size": 258694
+        },
+        {
+            "id": "federalreserve",
+            "name": "Federal Reserve",
+            "size": 731955
+        },
+        {
+            "id": "bbogaard",
+            "name": "B",
+            "size": 5360
+        },
+        {
+            "id": "HowieHawkins",
+            "name": "Howie Hawkins",
+            "size": 68822
+        },
+        {
+            "id": "themariefonseca",
+            "name": "Marie",
+            "size": 8365
+        },
+        {
+            "id": "JaneKim",
+            "name": "Jane Kim  金貞妍",
+            "size": 38192
+        },
+        {
+            "id": "mrdannyglover",
+            "name": "Danny Glover",
+            "size": 1256427
+        },
+        {
+            "id": "PaulSorrentino3",
+            "name": "#GayUnemployedWaiter",
+            "size": 9057
+        },
+        {
+            "id": "KillerMike",
+            "name": "Killer Mike",
+            "size": 572037
+        },
+        {
+            "id": "JoshuaDenJames",
+            "name": "Joshua James (Den)",
+            "size": 20
+        },
+        {
+            "id": "GerberKawasaki",
+            "name": "Ross Gerber",
+            "size": 138882
+        },
+        {
+            "id": "Lipsytee",
+            "name": "Lipsyte",
+            "size": 70
+        },
+        {
+            "id": "ogdenbirch",
+            "name": "Ogden Birch",
+            "size": 55
+        },
+        {
+            "id": "Zenkofoo",
+            "name": "Zenko",
+            "size": 1
+        },
+        {
+            "id": "Nikola_Truth",
+            "name": "Nikola Tesla’s Ghost 👻",
+            "size": 5142
+        },
+        {
+            "id": "BenjaminMars4",
+            "name": "Ben Mars 🇪🇺",
+            "size": 116
+        },
+        {
+            "id": "mbhnyc",
+            "name": "Matthew Hensrud",
+            "size": 1310
+        },
+        {
+            "id": "AJDelgado13",
+            "name": "A.J. Delgado",
+            "size": 151843
+        },
+        {
+            "id": "6Tiph",
+            "name": "Koli",
+            "size": 169
+        },
+        {
+            "id": "jamessmurray",
+            "name": "Murr",
+            "size": 1041663
+        },
+        {
+            "id": "danicamckellar",
+            "name": "Danica McKellar",
+            "size": 147557
+        },
+        {
+            "id": "Amata0882",
+            "name": "Amy Theresa Vallett",
+            "size": 21
+        },
+        {
+            "id": "RAJTHAKUR42",
+            "name": "RAJ K. THAKUR",
+            "size": 680
+        },
+        {
+            "id": "NickOfATL",
+            "name": "Nick",
+            "size": 35
+        },
+        {
+            "id": "realDan203",
+            "name": "Dan 🇺🇸",
+            "size": 42
+        },
+        {
+            "id": "nypost",
+            "name": "New York Post",
+            "size": 2121042
+        },
+        {
+            "id": "thedailybeast",
+            "name": "The Daily Beast",
+            "size": 1329151
+        },
+        {
+            "id": "IvanoStellato",
+            "name": "O",
+            "size": 47
+        },
+        {
+            "id": "kmyxdo",
+            "name": "kmyxdo",
+            "size": 6
+        },
+        {
+            "id": "J_J_Rangel94",
+            "name": "Jeremy Rangel",
+            "size": 116
+        },
+        {
+            "id": "BarronWheelbar1",
+            "name": "Barron_Wheelbarrow",
+            "size": 4
+        },
+        {
+            "id": "chenweihua",
+            "name": "Chen Weihua （陈卫华）",
+            "size": 73280
+        },
+        {
+            "id": "KennethMelvin17",
+            "name": "Kenny",
+            "size": 277
+        },
+        {
+            "id": "HerecomesDrBob",
+            "name": "Bob Hutton",
+            "size": 3567
+        },
+        {
+            "id": "miles4nothing",
+            "name": "miles4nothing",
+            "size": 31
+        },
+        {
+            "id": "Nityalakshmi",
+            "name": "Nitya Huntley",
+            "size": 1003
+        },
+        {
+            "id": "bainsmac",
+            "name": "A Nabakowski by an other name",
+            "size": 194
+        },
+        {
+            "id": "DonaldW52970622",
+            "name": "Donald Williams",
+            "size": 0
+        },
+        {
+            "id": "tylerperry",
+            "name": "Tyler Perry",
+            "size": 6497295
+        },
+        {
+            "id": "Kessler05342367",
+            "name": "Kessler",
+            "size": 13
+        },
+        {
+            "id": "fpanklukas",
+            "name": "Frankie",
+            "size": 2
+        },
+        {
+            "id": "GavinNewsom",
+            "name": "Gavin Newsom",
+            "size": 1988999
+        },
+        {
+            "id": "scottwww",
+            "name": "Scott Wainner",
+            "size": 6007
+        },
+        {
+            "id": "Wandafay",
+            "name": "Wandafay",
+            "size": 6821
+        },
+        {
+            "id": "SenAngusKing",
+            "name": "Senator Angus King",
+            "size": 241542
+        },
+        {
+            "id": "dylanobrien",
+            "name": "Dylan O'Brien",
+            "size": 5410391
+        },
+        {
+            "id": "Jim_Jordan",
+            "name": "Rep. Jim Jordan",
+            "size": 1978705
+        },
+        {
+            "id": "SecYellen",
+            "name": "Secretary Janet Yellen",
+            "size": 249425
+        },
+        {
+            "id": "PeteButtigieg",
+            "name": "Pete Buttigieg",
+            "size": 3478549
+        },
+        {
+            "id": "politico",
+            "name": "POLITICO",
+            "size": 4506008
+        },
+        {
+            "id": "TeamPelosi",
+            "name": "Nancy Pelosi",
+            "size": 793697
+        },
+        {
+            "id": "FTC",
+            "name": "FTC",
+            "size": 79894
+        },
+        {
+            "id": "EU_Commission",
+            "name": "European Commission 🇪🇺",
+            "size": 1477878
+        },
+        {
+            "id": "chuckschumer",
+            "name": "Chuck Schumer",
+            "size": 36801
+        },
+        {
+            "id": "Facebook",
+            "name": "Facebook",
+            "size": 13299490
+        },
+        {
+            "id": "bannerite",
+            "name": "Pat Fuller MA BsEd. #EmbraceHope #WearAMask #BLM",
+            "size": 93844
+        },
+        {
+            "id": "joncoopertweets",
+            "name": "Jon Cooper 🇺🇸",
+            "size": 782666
+        },
+        {
+            "id": "ChrisMurphyCT",
+            "name": "Chris Murphy",
+            "size": 1039263
+        },
+        {
+            "id": "SenateSmallBiz",
+            "name": "Senate Small Biz",
+            "size": 1620
+        },
+        {
+            "id": "TRUCKINGdotORG",
+            "name": "American Trucking",
+            "size": 47700
+        },
+        {
+            "id": "SenateFloor",
+            "name": "U.S. Senate Floor",
+            "size": 547643
+        },
+        {
+            "id": "HouseDemocrats",
+            "name": "House Democrats",
+            "size": 1258593
+        },
+        {
+            "id": "Power2EndureOrg",
+            "name": "Power2Endure",
+            "size": 1040
+        },
+        {
+            "id": "KensingtonRoyal",
+            "name": "The Duke and Duchess of Cambridge",
+            "size": 2111439
+        },
+        {
+            "id": "scobie",
+            "name": "Omid Scobie",
+            "size": 66209
+        },
+        {
+            "id": "BetterUp",
+            "name": "BetterUp",
+            "size": 13081
+        },
+        {
+            "id": "CREWcrew",
+            "name": "Citizens for Ethics",
+            "size": 408252
+        },
+        {
+            "id": "WhoseNotes",
+            "name": "PSA 2021",
+            "size": 950
+        },
+        {
+            "id": "mehdirhasan",
+            "name": "Mehdi Hasan",
+            "size": 1060805
+        },
+        {
+            "id": "MehdiHasanShow",
+            "name": "The Mehdi Hasan Show",
+            "size": 45210
+        },
+        {
+            "id": "JoyceWhiteVance",
+            "name": "Joyce Alene",
+            "size": 739896
+        },
+        {
+            "id": "NoahBookbinder",
+            "name": "Noah Bookbinder",
+            "size": 59845
+        },
+        {
+            "id": "nowayoutofhere",
+            "name": "Amanda 💜",
+            "size": 7
+        },
+        {
+            "id": "DandiaAsad",
+            "name": "Asad أسد 🥸",
+            "size": 12833
+        },
+        {
+            "id": "RoyalIncel",
+            "name": "royal jelly #istandwithblank",
+            "size": 163
+        },
+        {
+            "id": "AGHBennett",
+            "name": "Archie Badger🇬🇧🇪🇺🇦🇺🇺🇲🐈🐈♈🇨🇦",
+            "size": 2931
+        },
+        {
+            "id": "BepDelta",
+            "name": "Shizu",
+            "size": 14777
+        },
+        {
+            "id": "BowlinInc",
+            "name": "Bowlin Inc.",
+            "size": 244
+        },
+        {
+            "id": "WayneVaughan",
+            "name": "Wayne Vaughan",
+            "size": 10384
+        },
+        {
+            "id": "JackPosobiec",
+            "name": "Jack Posobiec",
+            "size": 1239037
+        },
+        {
+            "id": "SenBrianSchatz",
+            "name": "Senator Brian Schatz",
+            "size": 48262
+        }
+    ],
+    "links": [
+        {
+            "source": "BernieSanders",
+            "target": "BernieSanders",
+            "weight": 1.0
+        },
+        {
+            "source": "BernieSanders",
+            "target": "BAmazonUnion",
+            "weight": 0.168
+        },
+        {
+            "source": "BernieSanders",
+            "target": "LaurenKGurley",
+            "weight": 0.142
+        },
+        {
+            "source": "BernieSanders",
+            "target": "ryanobles",
+            "weight": 0.101
+        },
+        {
+            "source": "BernieSanders",
+            "target": "CoriBush",
+            "weight": 0.057
+        },
+        {
+            "source": "BernieSanders",
+            "target": "nick_brana",
+            "weight": 0.032
+        },
+        {
+            "source": "BernieSanders",
+            "target": "JoeBiden",
+            "weight": 0.028
+        },
+        {
+            "source": "BernieSanders",
+            "target": "amazon",
+            "weight": 0.028
+        },
+        {
+            "source": "BernieSanders",
+            "target": "GaryGrumbach",
+            "weight": 0.028
+        },
+        {
+            "source": "BernieSanders",
+            "target": "POTUS",
+            "weight": 0.027
+        },
+        {
+            "source": "BernieSanders",
+            "target": "dmedin11",
+            "weight": 0.027
+        },
+        {
+            "source": "BernieSanders",
+            "target": "ProudSocialist",
+            "weight": 0.025
+        },
+        {
+            "source": "BernieSanders",
+            "target": "ggreenwald",
+            "weight": 0.025
+        },
+        {
+            "source": "BernieSanders",
+            "target": "joelpollak",
+            "weight": 0.025
+        },
+        {
+            "source": "BernieSanders",
+            "target": "onefairwage",
+            "weight": 0.021
+        },
+        {
+            "source": "BernieSanders",
+            "target": "AOC",
+            "weight": 0.02
+        },
+        {
+            "source": "BernieSanders",
+            "target": "jamieson",
+            "weight": 0.018
+        },
+        {
+            "source": "BernieSanders",
+            "target": "OurRevolution",
+            "weight": 0.017
+        },
+        {
+            "source": "BernieSanders",
+            "target": "pierce",
+            "weight": 0.014
+        },
+        {
+            "source": "BernieSanders",
+            "target": "AliKaung",
+            "weight": 0.014
+        },
+        {
+            "source": "BernieSanders",
+            "target": "yeselson",
+            "weight": 0.014
+        },
+        {
+            "source": "BernieSanders",
+            "target": "ezraklein",
+            "weight": 0.012
+        },
+        {
+            "source": "BernieSanders",
+            "target": "DruidicM",
+            "weight": 0.012
+        },
+        {
+            "source": "BernieSanders",
+            "target": "SpeakerPelosi",
+            "weight": 0.011
+        },
+        {
+            "source": "BernieSanders",
+            "target": "BarackObama",
+            "weight": 0.011
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Twitter",
+            "weight": 0.01
+        },
+        {
+            "source": "BernieSanders",
+            "target": "VP",
+            "weight": 0.01
+        },
+        {
+            "source": "BernieSanders",
+            "target": "KamalaHarris",
+            "weight": 0.01
+        },
+        {
+            "source": "BernieSanders",
+            "target": "HillaryClinton",
+            "weight": 0.009
+        },
+        {
+            "source": "BernieSanders",
+            "target": "ryangrim",
+            "weight": 0.009
+        },
+        {
+            "source": "BernieSanders",
+            "target": "leclerc_alex",
+            "weight": 0.009
+        },
+        {
+            "source": "BernieSanders",
+            "target": "JustTheNews",
+            "weight": 0.009
+        },
+        {
+            "source": "BernieSanders",
+            "target": "RepAdamSchiff",
+            "weight": 0.008
+        },
+        {
+            "source": "BernieSanders",
+            "target": "CoryBooker",
+            "weight": 0.008
+        },
+        {
+            "source": "BernieSanders",
+            "target": "SenSchumer",
+            "weight": 0.008
+        },
+        {
+            "source": "BernieSanders",
+            "target": "SenatorDurbin",
+            "weight": 0.007
+        },
+        {
+            "source": "BernieSanders",
+            "target": "voteblue77",
+            "weight": 0.007
+        },
+        {
+            "source": "BernieSanders",
+            "target": "RedBeretsM4All",
+            "weight": 0.007
+        },
+        {
+            "source": "BernieSanders",
+            "target": "People4Bernie",
+            "weight": 0.007
+        },
+        {
+            "source": "BernieSanders",
+            "target": "aid_smx",
+            "weight": 0.007
+        },
+        {
+            "source": "BernieSanders",
+            "target": "TheBlueBirdSuc2",
+            "weight": 0.007
+        },
+        {
+            "source": "BernieSanders",
+            "target": "ewarren",
+            "weight": 0.007
+        },
+        {
+            "source": "BernieSanders",
+            "target": "ninaturner",
+            "weight": 0.007
+        },
+        {
+            "source": "BernieSanders",
+            "target": "elonmusk",
+            "weight": 0.007
+        },
+        {
+            "source": "BernieSanders",
+            "target": "SenatorCollins",
+            "weight": 0.007
+        },
+        {
+            "source": "BernieSanders",
+            "target": "TulsiGabbard",
+            "weight": 0.007
+        },
+        {
+            "source": "BernieSanders",
+            "target": "JordanChariton",
+            "weight": 0.007
+        },
+        {
+            "source": "BernieSanders",
+            "target": "CNN",
+            "weight": 0.006
+        },
+        {
+            "source": "BernieSanders",
+            "target": "SenWarren",
+            "weight": 0.006
+        },
+        {
+            "source": "BernieSanders",
+            "target": "nytopinion",
+            "weight": 0.006
+        },
+        {
+            "source": "BernieSanders",
+            "target": "M4ACalifornia",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "fshakir",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "jz_lito",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Jasonmi35415003",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "OVargas52",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "SecBecerra",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "sohornyloljk",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "ossoff",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "MartyJWalsh",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "NotCaseyWebb",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "DylanJCarty",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "tdmahaf",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "SenSanders",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "WhiteHouse",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "danielmarans",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "banditelli",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "CornelWest",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "jzink0883",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "msveefh",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "fromjoetoyou",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "NavPersaud",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Winston33472001",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "EricsElectrons",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "AngelaLMorabito",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "MorningsMaria",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "scottsantens",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Suzie33506746",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "thehill",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "dcexaminer",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Ignatio28508119",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Breaking911",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "BakerHugh",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "BruceBourgoine",
+            "weight": 0.005
+        },
+        {
+            "source": "BernieSanders",
+            "target": "SenTedCruz",
+            "weight": 0.004
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Dale01000803",
+            "weight": 0.004
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Michael__Baskin",
+            "weight": 0.004
+        },
+        {
+            "source": "BernieSanders",
+            "target": "ZionistColonist",
+            "weight": 0.004
+        },
+        {
+            "source": "BernieSanders",
+            "target": "P3ng1z",
+            "weight": 0.004
+        },
+        {
+            "source": "BernieSanders",
+            "target": "amyklobuchar",
+            "weight": 0.004
+        },
+        {
+            "source": "BernieSanders",
+            "target": "YouTube",
+            "weight": 0.003
+        },
+        {
+            "source": "BernieSanders",
+            "target": "moatsad71",
+            "weight": 0.003
+        },
+        {
+            "source": "BernieSanders",
+            "target": "FLOTUS",
+            "weight": 0.003
+        },
+        {
+            "source": "BernieSanders",
+            "target": "shaunking",
+            "weight": 0.003
+        },
+        {
+            "source": "BernieSanders",
+            "target": "maggieNYT",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "RGeary20",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Leftists4Office",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "RepRaskin",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "IRSnews",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "SocialSecurity",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "NYCMayor",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "FoeckeKeith",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "LasVegasDSA",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "muntel",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "AmbassadorTai",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "RepMattGaetz",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "pauljosephjkass",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "skrambldeggz78",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Britneyfan54",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "JohnCornyn",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "fabfashionista8",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "PostOpinions",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "ceprdc",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "camilapress",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "evoespueblo",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "washingtonpost",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "BillClinton",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "USArmy",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "CIA",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "FBI",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Jkylebass",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "StateDept",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "SenBobCasey",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Rgbblues",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "peaceloveandgi2",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Dalek_fan",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "MTatersalad",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "lawyer4laws",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "BreitbartNews",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "RowCro",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "ulryfam5",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "SenateDems",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "ozgurzeren",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "davidein",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "WallStCynic",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "kimbal",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "katieporteroc",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "staceyabrams",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "ReverendWarnock",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "PeterAtlantic",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "holdengraber",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "DavidCornDC",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "ProgIntl",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Lawrence",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "kthalps",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "SharnaAisha",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Broom_2",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "ibdurk",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "maartenlen",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "filmsonthebayou",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "ACMESalesRep",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "amyvanwinkle",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "zerocrossing",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "ShabanaMir1",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "BXMutualAidNtwk",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "BAPPnyc",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "NYCHealthSystem",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "aapis4bernie",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "MutualAidNYC",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "cs9030",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Fleacatt",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "DoingTheMost002",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "CLEANFISH",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "SFSWR1",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "RepRoKhanna",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "RepAOC",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "USProgressives",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "navvet96",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "fitzgep1961",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "RrrPeeSRC",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "RBReich",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "NorthmanTrader",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "federalreserve",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "bbogaard",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "HowieHawkins",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "themariefonseca",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "JaneKim",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "mrdannyglover",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "PaulSorrentino3",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "KillerMike",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "JoshuaDenJames",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "GerberKawasaki",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Lipsytee",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "ogdenbirch",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Zenkofoo",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Nikola_Truth",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "BenjaminMars4",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "mbhnyc",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "AJDelgado13",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "6Tiph",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "jamessmurray",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "danicamckellar",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Amata0882",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "RAJTHAKUR42",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "NickOfATL",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "realDan203",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "nypost",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "thedailybeast",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "IvanoStellato",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "kmyxdo",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "J_J_Rangel94",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "BarronWheelbar1",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "chenweihua",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "KennethMelvin17",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "HerecomesDrBob",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "miles4nothing",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Nityalakshmi",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "bainsmac",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "DonaldW52970622",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "tylerperry",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Kessler05342367",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "fpanklukas",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "GavinNewsom",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "scottwww",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Wandafay",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "SenAngusKing",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "dylanobrien",
+            "weight": 0.002
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Jim_Jordan",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "SecYellen",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "PeteButtigieg",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "politico",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "TeamPelosi",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "FTC",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "EU_Commission",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "chuckschumer",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Facebook",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "bannerite",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "joncoopertweets",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "ChrisMurphyCT",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "SenateSmallBiz",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "TRUCKINGdotORG",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "SenateFloor",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "HouseDemocrats",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "Power2EndureOrg",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "KensingtonRoyal",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "scobie",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "BetterUp",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "CREWcrew",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "WhoseNotes",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "mehdirhasan",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "MehdiHasanShow",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "JoyceWhiteVance",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "NoahBookbinder",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "nowayoutofhere",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "DandiaAsad",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "RoyalIncel",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "AGHBennett",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "BepDelta",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "BowlinInc",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "WayneVaughan",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "JackPosobiec",
+            "weight": 0.001
+        },
+        {
+            "source": "BernieSanders",
+            "target": "SenBrianSchatz",
+            "weight": 0.001
+        }
+    ]
+}

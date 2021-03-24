@@ -1,0 +1,1596 @@
+{
+    "nodes": [
+        {
+            "id": "NBCNews",
+            "name": "NBC News",
+            "size": 8409856
+        },
+        {
+            "id": "TODAYshow",
+            "name": "TODAY",
+            "size": 4238521
+        },
+        {
+            "id": "MSNBC",
+            "name": "MSNBC",
+            "size": 4167236
+        },
+        {
+            "id": "kylegriffin1",
+            "name": "Kyle Griffin",
+            "size": 1170217
+        },
+        {
+            "id": "csiemaszko",
+            "name": "Corky Siemaszko",
+            "size": 3415
+        },
+        {
+            "id": "CBSNews",
+            "name": "CBS News",
+            "size": 8095623
+        },
+        {
+            "id": "CNN",
+            "name": "CNN",
+            "size": 53313554
+        },
+        {
+            "id": "ABC",
+            "name": "ABC News",
+            "size": 16592654
+        },
+        {
+            "id": "BillPascrell",
+            "name": "Bill Pascrell, Jr.",
+            "size": 109568
+        },
+        {
+            "id": "NBCPolitics",
+            "name": "NBC Politics",
+            "size": 635940
+        },
+        {
+            "id": "PattersonNBC",
+            "name": "Steve Patterson",
+            "size": 12491
+        },
+        {
+            "id": "JessicaProis",
+            "name": "Jessica Prois",
+            "size": 7304
+        },
+        {
+            "id": "TheLastWord",
+            "name": "The Last Word",
+            "size": 1082578
+        },
+        {
+            "id": "NBCAsianAmerica",
+            "name": "NBC Asian America",
+            "size": 31050
+        },
+        {
+            "id": "FoxNews",
+            "name": "Fox News",
+            "size": 20139025
+        },
+        {
+            "id": "washingtonpost",
+            "name": "The Washington Post",
+            "size": 17770912
+        },
+        {
+            "id": "LeaderMcConnell",
+            "name": "Leader McConnell",
+            "size": 2100882
+        },
+        {
+            "id": "JamilSmith",
+            "name": "Jamil Smith",
+            "size": 312800
+        },
+        {
+            "id": "jasonjordan2814",
+            "name": "Jason Jordan 🙀",
+            "size": 565
+        },
+        {
+            "id": "hardknoxfirst",
+            "name": "hardknoxfirst",
+            "size": 6651
+        },
+        {
+            "id": "shannonrwatts",
+            "name": "Shannon Watts",
+            "size": 520088
+        },
+        {
+            "id": "mehdirhasan",
+            "name": "Mehdi Hasan",
+            "size": 1060551
+        },
+        {
+            "id": "WSJ",
+            "name": "The Wall Street Journal",
+            "size": 18732378
+        },
+        {
+            "id": "cspanwj",
+            "name": "Washington Journal",
+            "size": 67479
+        },
+        {
+            "id": "Elenaforever13",
+            "name": "Elenaforever",
+            "size": 6266
+        },
+        {
+            "id": "TheTweetOfJohn",
+            "name": "John FitzGerald",
+            "size": 6045
+        },
+        {
+            "id": "BreakingNews",
+            "name": "Breaking News",
+            "size": 9750434
+        },
+        {
+            "id": "NBCLatino",
+            "name": "NBC Latino",
+            "size": 81518
+        },
+        {
+            "id": "NBCNightlyNews",
+            "name": "NBC Nightly News with Lester Holt",
+            "size": 1030446
+        },
+        {
+            "id": "Jeff_Jacoby",
+            "name": "Jeff Jacoby",
+            "size": 20034
+        },
+        {
+            "id": "CarrieNBCNews",
+            "name": "Carrie Dann",
+            "size": 39021
+        },
+        {
+            "id": "BarackObama",
+            "name": "Barack Obama",
+            "size": 130066741
+        },
+        {
+            "id": "WilfredSoto8",
+            "name": "Wilfred Soto",
+            "size": 635
+        },
+        {
+            "id": "denisewu",
+            "name": "Denise Wu",
+            "size": 26295
+        },
+        {
+            "id": "nypost",
+            "name": "New York Post",
+            "size": 2120602
+        },
+        {
+            "id": "johnalbers",
+            "name": "John Albers",
+            "size": 4068
+        },
+        {
+            "id": "WashTimes",
+            "name": "The Washington Times",
+            "size": 410222
+        },
+        {
+            "id": "VanityFair",
+            "name": "VANITY FAIR",
+            "size": 4860175
+        },
+        {
+            "id": "thehill",
+            "name": "The Hill",
+            "size": 4151024
+        },
+        {
+            "id": "CNBC",
+            "name": "CNBC",
+            "size": 4051697
+        },
+        {
+            "id": "nytimes",
+            "name": "The New York Times",
+            "size": 49686133
+        },
+        {
+            "id": "RonaldWhite555",
+            "name": "Ronald White",
+            "size": 13
+        },
+        {
+            "id": "AllenHaddick",
+            "name": "March 2, 1836",
+            "size": 4429
+        },
+        {
+            "id": "Jim_Jordan",
+            "name": "Rep. Jim Jordan",
+            "size": 1978299
+        },
+        {
+            "id": "bigpoppaUK312",
+            "name": "K Dub",
+            "size": 28
+        },
+        {
+            "id": "marcusnbca",
+            "name": "Marcus the Acadian",
+            "size": 36
+        },
+        {
+            "id": "Morning_Joe",
+            "name": "Morning Joe",
+            "size": 739668
+        },
+        {
+            "id": "sahilkapur",
+            "name": "Sahil Kapur",
+            "size": 183915
+        },
+        {
+            "id": "maddow",
+            "name": "Rachel Maddow MSNBC",
+            "size": 10629076
+        },
+        {
+            "id": "stopbeingaderp",
+            "name": "WTF Seriously",
+            "size": 3086
+        },
+        {
+            "id": "NBCNewsTHINK",
+            "name": "NBC News THINK",
+            "size": 23686
+        },
+        {
+            "id": "NBCBLK",
+            "name": "NBCBLK",
+            "size": 60450
+        },
+        {
+            "id": "Stonekettle",
+            "name": "Stonekettle",
+            "size": 174864
+        },
+        {
+            "id": "TonFrere9",
+            "name": "Ton Frere",
+            "size": 8
+        },
+        {
+            "id": "Hector32z",
+            "name": "Hector Garcia",
+            "size": 172
+        },
+        {
+            "id": "21sts4",
+            "name": "karma",
+            "size": 0
+        },
+        {
+            "id": "nycteaches",
+            "name": "NYC Teacher",
+            "size": 57
+        },
+        {
+            "id": "RedRockWesterly",
+            "name": "RedRock",
+            "size": 109
+        },
+        {
+            "id": "TheePill",
+            "name": "“Mostly Peaceful” Lincoln",
+            "size": 105
+        },
+        {
+            "id": "RearAdBsBlog",
+            "name": "Rear Admiral",
+            "size": 136518
+        },
+        {
+            "id": "sfchronicle",
+            "name": "San Francisco Chronicle",
+            "size": 250479
+        },
+        {
+            "id": "washexaminer",
+            "name": "Washington Examiner",
+            "size": 3549
+        },
+        {
+            "id": "bluewave_elaine",
+            "name": "Bluewave",
+            "size": 5225
+        },
+        {
+            "id": "gltan1969",
+            "name": "GLT",
+            "size": 1002
+        },
+        {
+            "id": "WashPost",
+            "name": "The Washington Post",
+            "size": 369
+        },
+        {
+            "id": "USATODAY",
+            "name": "USA TODAY",
+            "size": 4328216
+        },
+        {
+            "id": "AP",
+            "name": "The Associated Press",
+            "size": 15119421
+        },
+        {
+            "id": "TomiLahren",
+            "name": "Tomi Lahren",
+            "size": 1626444
+        },
+        {
+            "id": "abcnews",
+            "name": "ABC News",
+            "size": 1775451
+        },
+        {
+            "id": "NPR",
+            "name": "NPR",
+            "size": 8713964
+        },
+        {
+            "id": "RealWalkAway",
+            "name": "#WalkAway Campaign",
+            "size": 75006
+        },
+        {
+            "id": "CherokeeNative3",
+            "name": "CherokeeNative",
+            "size": 6595
+        },
+        {
+            "id": "AC360",
+            "name": "Anderson Cooper 360°",
+            "size": 1693005
+        },
+        {
+            "id": "therecount",
+            "name": "The Recount",
+            "size": 315898
+        },
+        {
+            "id": "ajc",
+            "name": "AJC",
+            "size": 1060942
+        },
+        {
+            "id": "MaddowAux",
+            "name": "Rachel Maddow Show",
+            "size": 20069
+        },
+        {
+            "id": "MiamiHerald",
+            "name": "Miami Herald",
+            "size": 483859
+        },
+        {
+            "id": "TexasTribune",
+            "name": "Texas Tribune",
+            "size": 272391
+        },
+        {
+            "id": "RussWheeler9",
+            "name": "Rick fuckn Dalton",
+            "size": 10
+        },
+        {
+            "id": "donnabrazile",
+            "name": "Donna Brazile",
+            "size": 668353
+        },
+        {
+            "id": "N_Like_Flint",
+            "name": "A. Craig Flint I",
+            "size": 58
+        },
+        {
+            "id": "obj",
+            "name": "Odell Beckham Jr",
+            "size": 4161992
+        },
+        {
+            "id": "JamesCarville",
+            "name": "James Carville",
+            "size": 213926
+        },
+        {
+            "id": "ABCWorldNews",
+            "name": "World News Tonight",
+            "size": 1509092
+        },
+        {
+            "id": "ABCNetwork",
+            "name": "ABC",
+            "size": 697018
+        },
+        {
+            "id": "RKTx_4",
+            "name": "RK_",
+            "size": 4738
+        },
+        {
+            "id": "Joey97328486",
+            "name": "Trump’s Puerto Rican Twin",
+            "size": 99
+        },
+        {
+            "id": "POTUS",
+            "name": "President Biden",
+            "size": 9381927
+        },
+        {
+            "id": "TheGeneral_0",
+            "name": "General⭐️⭐️⭐️⭐️🇺🇸🦅",
+            "size": 32606
+        },
+        {
+            "id": "starkrob21",
+            "name": "Rob Stark",
+            "size": 25025
+        },
+        {
+            "id": "Cat_120402",
+            "name": "Cat",
+            "size": 43
+        },
+        {
+            "id": "stevejuneau2",
+            "name": "steve juneau",
+            "size": 56
+        },
+        {
+            "id": "SilversteinThor",
+            "name": "Thor Silverstein",
+            "size": 137
+        },
+        {
+            "id": "JohnM53093509",
+            "name": "John M",
+            "size": 44
+        },
+        {
+            "id": "RichardLui",
+            "name": "ʀɪᴄʜᴀʀᴅ ʟᴜɪ",
+            "size": 106738
+        },
+        {
+            "id": "JoyAnnReid",
+            "name": "Joy-Ann Pro-Democracy & Masks Reid 😷",
+            "size": 2005656
+        },
+        {
+            "id": "RonDeSantisFL",
+            "name": "Ron DeSantis",
+            "size": 339357
+        },
+        {
+            "id": "lesterholt",
+            "name": "lester holt",
+            "size": 358
+        },
+        {
+            "id": "Mcred9",
+            "name": "Michelle",
+            "size": 50
+        },
+        {
+            "id": "BisonBrewski",
+            "name": "Jason - Bison Brewski F",
+            "size": 278
+        },
+        {
+            "id": "IvoMd",
+            "name": "Ivo Martins, MD",
+            "size": 103
+        },
+        {
+            "id": "AnneBoleynVIII",
+            "name": "Dr. Anne Boleyn",
+            "size": 450
+        },
+        {
+            "id": "HenryJGomez",
+            "name": "Henry J. Gomez",
+            "size": 21713
+        },
+        {
+            "id": "laurenpeikoff",
+            "name": "Lauren Peikoff",
+            "size": 20693
+        },
+        {
+            "id": "AmyMincey7",
+            "name": "🔆 Amy Mincey 🔆",
+            "size": 5846
+        },
+        {
+            "id": "TheDemocrats",
+            "name": "The Democrats",
+            "size": 2113953
+        },
+        {
+            "id": "courty_spice",
+            "name": "Courtney Kelley",
+            "size": 177
+        },
+        {
+            "id": "AuntKatyAnn",
+            "name": "AuntKaty",
+            "size": 5426
+        },
+        {
+            "id": "sirsquishy79",
+            "name": "sirsquishy",
+            "size": 121
+        },
+        {
+            "id": "Emily_London11",
+            "name": "Emily London",
+            "size": 31
+        },
+        {
+            "id": "ManleyPeg",
+            "name": "Peg Manley",
+            "size": 994
+        },
+        {
+            "id": "dhamous26",
+            "name": "dawnstar",
+            "size": 69
+        },
+        {
+            "id": "WeeklyOptions_1",
+            "name": "Stocks & Options",
+            "size": 1448
+        },
+        {
+            "id": "LatinoEnviro",
+            "name": "The LEAP",
+            "size": 1044
+        },
+        {
+            "id": "vidjocky",
+            "name": "Steve Cotton",
+            "size": 22
+        },
+        {
+            "id": "carjack68",
+            "name": "Jodie Rodgers",
+            "size": 58
+        },
+        {
+            "id": "NateluvsAmerica",
+            "name": "🇺🇸Nate 🇺🇸",
+            "size": 201
+        },
+        {
+            "id": "FBI",
+            "name": "FBI",
+            "size": 3317395
+        },
+        {
+            "id": "intelnews",
+            "name": "Intel News",
+            "size": 160638
+        },
+        {
+            "id": "JustinTrudeau",
+            "name": "Justin Trudeau",
+            "size": 5589372
+        },
+        {
+            "id": "SenateDems",
+            "name": "Senate Democrats",
+            "size": 1188187
+        },
+        {
+            "id": "CanadaGovNews",
+            "name": "CanadaGovNews",
+            "size": 4314
+        },
+        {
+            "id": "JoeBiden",
+            "name": "Joe Biden",
+            "size": 29582079
+        },
+        {
+            "id": "SenateGOP",
+            "name": "Senate Republicans",
+            "size": 1244631
+        },
+        {
+            "id": "CanadianPM",
+            "name": "CanadianPM",
+            "size": 502035
+        },
+        {
+            "id": "canadagovernme1",
+            "name": "canada government",
+            "size": 444
+        },
+        {
+            "id": "gabegutierrez",
+            "name": "Gabe Gutierrez",
+            "size": 20646
+        },
+        {
+            "id": "jon_moulin",
+            "name": "Jon Jean Moulin",
+            "size": 10333
+        },
+        {
+            "id": "Lyssbobimbo",
+            "name": "Lyssbobiss",
+            "size": 81
+        },
+        {
+            "id": "novascripts",
+            "name": "NOVA ScriptsCentral",
+            "size": 280
+        },
+        {
+            "id": "latimesent",
+            "name": "LAT Entertainment",
+            "size": 169426
+        },
+        {
+            "id": "AltYelloNatPark",
+            "name": "AltYellowstoneNatPar",
+            "size": 61184
+        },
+        {
+            "id": "Mr_Neutral_Man",
+            "name": "Mr Neutral Man",
+            "size": 69
+        },
+        {
+            "id": "Molson_Hart",
+            "name": "Molson Hart",
+            "size": 11693
+        },
+        {
+            "id": "TinResistAgain",
+            "name": "#StopAsianHate #WordsMatter",
+            "size": 960
+        },
+        {
+            "id": "GOP",
+            "name": "GOP",
+            "size": 2731507
+        },
+        {
+            "id": "YouTube",
+            "name": "YouTube",
+            "size": 73116783
+        },
+        {
+            "id": "IngrahamAngle",
+            "name": "Laura Ingraham",
+            "size": 3732179
+        },
+        {
+            "id": "MichaelNBC12",
+            "name": "Michael Pegram",
+            "size": 2102
+        },
+        {
+            "id": "mortgageconsult",
+            "name": "Pam #Truth #MaskUp",
+            "size": 12597
+        },
+        {
+            "id": "shomaristone",
+            "name": "Shomari Stone",
+            "size": 216127
+        },
+        {
+            "id": "La_Bete_humaine",
+            "name": "Emile Zola",
+            "size": 18181
+        },
+        {
+            "id": "PopeMary7",
+            "name": "Pope Mary",
+            "size": 7
+        },
+        {
+            "id": "AliDawow",
+            "name": "Ali dawah",
+            "size": 33110
+        },
+        {
+            "id": "MaximoReyna",
+            "name": "Max Reyna",
+            "size": 6
+        },
+        {
+            "id": "_whitneywebb",
+            "name": "Whitney Webb",
+            "size": 102597
+        },
+        {
+            "id": "LisaToddSutton",
+            "name": "LTS📢 Biden Harris",
+            "size": 13725
+        },
+        {
+            "id": "joncoopertweets",
+            "name": "Jon Cooper 🇺🇸",
+            "size": 782650
+        },
+        {
+            "id": "kimmythepooh",
+            "name": "Kimmy The Pooh",
+            "size": 40272
+        },
+        {
+            "id": "AliAbunimah",
+            "name": "Ali Abunimah",
+            "size": 103127
+        },
+        {
+            "id": "Purple",
+            "name": "Purple",
+            "size": 34340
+        },
+        {
+            "id": "BeingLGBTQPod",
+            "name": "Being LGBTQ Podcast🏳️‍🌈",
+            "size": 13806
+        },
+        {
+            "id": "PressSec",
+            "name": "Jen Psaki",
+            "size": 1416911
+        },
+        {
+            "id": "MicahGrimes",
+            "name": "Micah Grimes",
+            "size": 27204
+        },
+        {
+            "id": "AshAgony",
+            "name": "Ash J",
+            "size": 16538
+        },
+        {
+            "id": "tribelaw",
+            "name": "Laurence Tribe",
+            "size": 1139611
+        },
+        {
+            "id": "NBCOUT",
+            "name": "NBC Out",
+            "size": 31224
+        },
+        {
+            "id": "BlackBernieBabe",
+            "name": "Monica Leninsky🌹💚",
+            "size": 30456
+        },
+        {
+            "id": "BettyBowers",
+            "name": "Mrs. Betty Bowers",
+            "size": 273937
+        }
+    ],
+    "links": [
+        {
+            "source": "NBCNews",
+            "target": "NBCNews",
+            "weight": 1.0
+        },
+        {
+            "source": "NBCNews",
+            "target": "TODAYshow",
+            "weight": 0.184
+        },
+        {
+            "source": "NBCNews",
+            "target": "MSNBC",
+            "weight": 0.052
+        },
+        {
+            "source": "NBCNews",
+            "target": "kylegriffin1",
+            "weight": 0.039
+        },
+        {
+            "source": "NBCNews",
+            "target": "csiemaszko",
+            "weight": 0.039
+        },
+        {
+            "source": "NBCNews",
+            "target": "CBSNews",
+            "weight": 0.033
+        },
+        {
+            "source": "NBCNews",
+            "target": "CNN",
+            "weight": 0.028
+        },
+        {
+            "source": "NBCNews",
+            "target": "ABC",
+            "weight": 0.024
+        },
+        {
+            "source": "NBCNews",
+            "target": "BillPascrell",
+            "weight": 0.023
+        },
+        {
+            "source": "NBCNews",
+            "target": "NBCPolitics",
+            "weight": 0.021
+        },
+        {
+            "source": "NBCNews",
+            "target": "PattersonNBC",
+            "weight": 0.018
+        },
+        {
+            "source": "NBCNews",
+            "target": "JessicaProis",
+            "weight": 0.016
+        },
+        {
+            "source": "NBCNews",
+            "target": "TheLastWord",
+            "weight": 0.016
+        },
+        {
+            "source": "NBCNews",
+            "target": "NBCAsianAmerica",
+            "weight": 0.016
+        },
+        {
+            "source": "NBCNews",
+            "target": "FoxNews",
+            "weight": 0.015
+        },
+        {
+            "source": "NBCNews",
+            "target": "washingtonpost",
+            "weight": 0.015
+        },
+        {
+            "source": "NBCNews",
+            "target": "LeaderMcConnell",
+            "weight": 0.014
+        },
+        {
+            "source": "NBCNews",
+            "target": "JamilSmith",
+            "weight": 0.014
+        },
+        {
+            "source": "NBCNews",
+            "target": "jasonjordan2814",
+            "weight": 0.014
+        },
+        {
+            "source": "NBCNews",
+            "target": "hardknoxfirst",
+            "weight": 0.014
+        },
+        {
+            "source": "NBCNews",
+            "target": "shannonrwatts",
+            "weight": 0.012
+        },
+        {
+            "source": "NBCNews",
+            "target": "mehdirhasan",
+            "weight": 0.012
+        },
+        {
+            "source": "NBCNews",
+            "target": "WSJ",
+            "weight": 0.011
+        },
+        {
+            "source": "NBCNews",
+            "target": "cspanwj",
+            "weight": 0.011
+        },
+        {
+            "source": "NBCNews",
+            "target": "Elenaforever13",
+            "weight": 0.011
+        },
+        {
+            "source": "NBCNews",
+            "target": "TheTweetOfJohn",
+            "weight": 0.011
+        },
+        {
+            "source": "NBCNews",
+            "target": "BreakingNews",
+            "weight": 0.011
+        },
+        {
+            "source": "NBCNews",
+            "target": "NBCLatino",
+            "weight": 0.011
+        },
+        {
+            "source": "NBCNews",
+            "target": "NBCNightlyNews",
+            "weight": 0.009
+        },
+        {
+            "source": "NBCNews",
+            "target": "Jeff_Jacoby",
+            "weight": 0.009
+        },
+        {
+            "source": "NBCNews",
+            "target": "CarrieNBCNews",
+            "weight": 0.009
+        },
+        {
+            "source": "NBCNews",
+            "target": "BarackObama",
+            "weight": 0.008
+        },
+        {
+            "source": "NBCNews",
+            "target": "WilfredSoto8",
+            "weight": 0.008
+        },
+        {
+            "source": "NBCNews",
+            "target": "denisewu",
+            "weight": 0.008
+        },
+        {
+            "source": "NBCNews",
+            "target": "nypost",
+            "weight": 0.008
+        },
+        {
+            "source": "NBCNews",
+            "target": "johnalbers",
+            "weight": 0.008
+        },
+        {
+            "source": "NBCNews",
+            "target": "WashTimes",
+            "weight": 0.008
+        },
+        {
+            "source": "NBCNews",
+            "target": "VanityFair",
+            "weight": 0.008
+        },
+        {
+            "source": "NBCNews",
+            "target": "thehill",
+            "weight": 0.008
+        },
+        {
+            "source": "NBCNews",
+            "target": "CNBC",
+            "weight": 0.008
+        },
+        {
+            "source": "NBCNews",
+            "target": "nytimes",
+            "weight": 0.008
+        },
+        {
+            "source": "NBCNews",
+            "target": "RonaldWhite555",
+            "weight": 0.007
+        },
+        {
+            "source": "NBCNews",
+            "target": "AllenHaddick",
+            "weight": 0.007
+        },
+        {
+            "source": "NBCNews",
+            "target": "Jim_Jordan",
+            "weight": 0.007
+        },
+        {
+            "source": "NBCNews",
+            "target": "bigpoppaUK312",
+            "weight": 0.007
+        },
+        {
+            "source": "NBCNews",
+            "target": "marcusnbca",
+            "weight": 0.007
+        },
+        {
+            "source": "NBCNews",
+            "target": "Morning_Joe",
+            "weight": 0.007
+        },
+        {
+            "source": "NBCNews",
+            "target": "sahilkapur",
+            "weight": 0.007
+        },
+        {
+            "source": "NBCNews",
+            "target": "maddow",
+            "weight": 0.006
+        },
+        {
+            "source": "NBCNews",
+            "target": "stopbeingaderp",
+            "weight": 0.005
+        },
+        {
+            "source": "NBCNews",
+            "target": "NBCNewsTHINK",
+            "weight": 0.005
+        },
+        {
+            "source": "NBCNews",
+            "target": "NBCBLK",
+            "weight": 0.005
+        },
+        {
+            "source": "NBCNews",
+            "target": "Stonekettle",
+            "weight": 0.005
+        },
+        {
+            "source": "NBCNews",
+            "target": "TonFrere9",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "Hector32z",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "21sts4",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "nycteaches",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "RedRockWesterly",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "TheePill",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "RearAdBsBlog",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "sfchronicle",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "washexaminer",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "bluewave_elaine",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "gltan1969",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "WashPost",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "USATODAY",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "AP",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "TomiLahren",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "abcnews",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "NPR",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "RealWalkAway",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "CherokeeNative3",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "AC360",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "therecount",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "ajc",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "MaddowAux",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "MiamiHerald",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "TexasTribune",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "RussWheeler9",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "donnabrazile",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "N_Like_Flint",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "obj",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "JamesCarville",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "ABCWorldNews",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "ABCNetwork",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "RKTx_4",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "Joey97328486",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "POTUS",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "TheGeneral_0",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "starkrob21",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "Cat_120402",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "stevejuneau2",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "SilversteinThor",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "JohnM53093509",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "RichardLui",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "JoyAnnReid",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "RonDeSantisFL",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "lesterholt",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "Mcred9",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "BisonBrewski",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "IvoMd",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "AnneBoleynVIII",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "HenryJGomez",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "laurenpeikoff",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "AmyMincey7",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "TheDemocrats",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "courty_spice",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "AuntKatyAnn",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "sirsquishy79",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "Emily_London11",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "ManleyPeg",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "dhamous26",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "WeeklyOptions_1",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "LatinoEnviro",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "vidjocky",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "carjack68",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "NateluvsAmerica",
+            "weight": 0.004
+        },
+        {
+            "source": "NBCNews",
+            "target": "FBI",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "intelnews",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "JustinTrudeau",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "SenateDems",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "CanadaGovNews",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "JoeBiden",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "SenateGOP",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "CanadianPM",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "canadagovernme1",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "gabegutierrez",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "jon_moulin",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "Lyssbobimbo",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "novascripts",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "latimesent",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "AltYelloNatPark",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "Mr_Neutral_Man",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "Molson_Hart",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "TinResistAgain",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "GOP",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "YouTube",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "IngrahamAngle",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "MichaelNBC12",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "mortgageconsult",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "shomaristone",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "La_Bete_humaine",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "PopeMary7",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "AliDawow",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "MaximoReyna",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "_whitneywebb",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "LisaToddSutton",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "joncoopertweets",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "kimmythepooh",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "AliAbunimah",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "Purple",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "BeingLGBTQPod",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "PressSec",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "MicahGrimes",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "AshAgony",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "tribelaw",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "NBCOUT",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "BlackBernieBabe",
+            "weight": 0.002
+        },
+        {
+            "source": "NBCNews",
+            "target": "BettyBowers",
+            "weight": 0.002
+        }
+    ]
+}

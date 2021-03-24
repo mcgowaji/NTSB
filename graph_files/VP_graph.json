@@ -1,0 +1,2916 @@
+{
+    "nodes": [
+        {
+            "id": "VP",
+            "name": "Vice President Kamala Harris",
+            "size": 9637096
+        },
+        {
+            "id": "CBSThisMorning",
+            "name": "CBS This Morning",
+            "size": 445071
+        },
+        {
+            "id": "POTUS",
+            "name": "President Biden",
+            "size": 9399031
+        },
+        {
+            "id": "KamalaHarris",
+            "name": "Kamala Harris",
+            "size": 18045720
+        },
+        {
+            "id": "SecBlinken",
+            "name": "Secretary Antony Blinken",
+            "size": 457743
+        },
+        {
+            "id": "FoxNews",
+            "name": "Fox News",
+            "size": 20140718
+        },
+        {
+            "id": "JackPosobiec",
+            "name": "Jack Posobiec",
+            "size": 1238997
+        },
+        {
+            "id": "USEmbassyTurkey",
+            "name": "U.S. Embassy Turkey",
+            "size": 114598
+        },
+        {
+            "id": "usembarmenia",
+            "name": "US Embassy, Armenia",
+            "size": 97687
+        },
+        {
+            "id": "WhiteHouse",
+            "name": "The White House",
+            "size": 5032961
+        },
+        {
+            "id": "USAinUAE",
+            "name": "US Mission to UAE",
+            "size": 26809
+        },
+        {
+            "id": "SpeakerPelosi",
+            "name": "Nancy Pelosi",
+            "size": 7067356
+        },
+        {
+            "id": "ACLU",
+            "name": "ACLU",
+            "size": 1988848
+        },
+        {
+            "id": "RadioFreeTom",
+            "name": "Tom Nichols",
+            "size": 517612
+        },
+        {
+            "id": "juul_survivor",
+            "name": "camille",
+            "size": 2550
+        },
+        {
+            "id": "USCIS",
+            "name": "USCIS",
+            "size": 234852
+        },
+        {
+            "id": "RepLindaSanchez",
+            "name": "Rep. Linda Sánchez",
+            "size": 47098
+        },
+        {
+            "id": "StateDeptSpox",
+            "name": "Ned Price",
+            "size": 481341
+        },
+        {
+            "id": "USEnvoyIran",
+            "name": "Special Envoy for Iran Robert Malley",
+            "size": 1877
+        },
+        {
+            "id": "shima_f64",
+            "name": "shima",
+            "size": 373
+        },
+        {
+            "id": "StateDept",
+            "name": "Department of State",
+            "size": 6129403
+        },
+        {
+            "id": "FatemeBaran",
+            "name": "Fateme",
+            "size": 435
+        },
+        {
+            "id": "BernardKerik",
+            "name": "Bernard B. Kerik",
+            "size": 214678
+        },
+        {
+            "id": "TravelGov",
+            "name": "Travel - State Dept",
+            "size": 650006
+        },
+        {
+            "id": "EthioHRC",
+            "name": "Ethiopian Human Rights Commission",
+            "size": 19631
+        },
+        {
+            "id": "AILANational",
+            "name": "AILA",
+            "size": 45140
+        },
+        {
+            "id": "radv2021",
+            "name": "Dv2021",
+            "size": 82
+        },
+        {
+            "id": "SecBecerra",
+            "name": "Secretary Xavier Becerra",
+            "size": 4533
+        },
+        {
+            "id": "adc",
+            "name": "ADC National",
+            "size": 11543
+        },
+        {
+            "id": "USABehFarsi",
+            "name": "USAbehFarsi",
+            "size": 737800
+        },
+        {
+            "id": "edokeefe",
+            "name": "Ed O'Keefe",
+            "size": 115065
+        },
+        {
+            "id": "tperry518",
+            "name": "Tim Perry",
+            "size": 7565
+        },
+        {
+            "id": "LadyJayPersists",
+            "name": "Jax Is Vaxxed",
+            "size": 22873
+        },
+        {
+            "id": "GpGpLESLIE",
+            "name": "Greg😷COVID VACCINATIONS A JOKE IN ONTARIO",
+            "size": 1187
+        },
+        {
+            "id": "JoeBiden",
+            "name": "Joe Biden",
+            "size": 29591203
+        },
+        {
+            "id": "shahinsamani72",
+            "name": "shahin samani",
+            "size": 46
+        },
+        {
+            "id": "therecount",
+            "name": "The Recount",
+            "size": 315971
+        },
+        {
+            "id": "AHeidarinejad",
+            "name": "Arman Heidarinejad",
+            "size": 130
+        },
+        {
+            "id": "TBolouki",
+            "name": "Tannaz Amini Shesh Bolouki",
+            "size": 79
+        },
+        {
+            "id": "Nahalforoutan65",
+            "name": "Nahal",
+            "size": 67
+        },
+        {
+            "id": "yousef85059331",
+            "name": "yousef",
+            "size": 140
+        },
+        {
+            "id": "AP",
+            "name": "The Associated Press",
+            "size": 15120347
+        },
+        {
+            "id": "BillClinton",
+            "name": "Bill Clinton",
+            "size": 13295088
+        },
+        {
+            "id": "ElijahSchaffer",
+            "name": "ELIJAH SCHAFFER",
+            "size": 277507
+        },
+        {
+            "id": "AokoOtieno_",
+            "name": "Maverick Aoko",
+            "size": 15111
+        },
+        {
+            "id": "FLOTUS",
+            "name": "Jill Biden",
+            "size": 2601972
+        },
+        {
+            "id": "AlwaysThinkHow",
+            "name": "Think 1st #StopTheSpread-Masks go OVER your nose!",
+            "size": 5788
+        },
+        {
+            "id": "AliMayorkas",
+            "name": "Alejandro Mayorkas",
+            "size": 162573
+        },
+        {
+            "id": "Not_the_Bee",
+            "name": "Not the Bee",
+            "size": 105326
+        },
+        {
+            "id": "oXxRowanxXo",
+            "name": "🖤🦋Rowan Moon🦋🖤",
+            "size": 37650
+        },
+        {
+            "id": "SecMayorkas",
+            "name": "Secretary Alejandro Mayorkas",
+            "size": 32763
+        },
+        {
+            "id": "hrw",
+            "name": "Human Rights Watch",
+            "size": 4662325
+        },
+        {
+            "id": "AfsoonAtaei",
+            "name": "Afsoon ataei",
+            "size": 58
+        },
+        {
+            "id": "GCBCoalition",
+            "name": "Green Card Backlog Coalition",
+            "size": 6838
+        },
+        {
+            "id": "Mahnnazz5",
+            "name": "Mahnnazz",
+            "size": 89
+        },
+        {
+            "id": "jasmin01811204",
+            "name": "jasmine",
+            "size": 106
+        },
+        {
+            "id": "shjsh8325",
+            "name": "shj",
+            "size": 248
+        },
+        {
+            "id": "Roshan_Rinaldi",
+            "name": "Roshan Rinaldi",
+            "size": 13153
+        },
+        {
+            "id": "DrDooleyMD",
+            "name": "Dr. Victoria Dooley",
+            "size": 48961
+        },
+        {
+            "id": "OmnaTigray",
+            "name": "Omna Tigray",
+            "size": 18408
+        },
+        {
+            "id": "PressSec",
+            "name": "Jen Psaki",
+            "size": 1419763
+        },
+        {
+            "id": "mkraju",
+            "name": "Manu Raju",
+            "size": 580684
+        },
+        {
+            "id": "SenateDems",
+            "name": "Senate Democrats",
+            "size": 1188304
+        },
+        {
+            "id": "johnstodder",
+            "name": "John Stodder Jr.",
+            "size": 1561
+        },
+        {
+            "id": "Marishokufe",
+            "name": "Mari",
+            "size": 45
+        },
+        {
+            "id": "AbiyAhmedAli",
+            "name": "Abiy Ahmed Ali 🇪🇹",
+            "size": 660459
+        },
+        {
+            "id": "Not45155100",
+            "name": "Not",
+            "size": 0
+        },
+        {
+            "id": "SFUnified",
+            "name": "SF public schools",
+            "size": 14903
+        },
+        {
+            "id": "PaoloFormentin1",
+            "name": "Paolo Formentini",
+            "size": 593
+        },
+        {
+            "id": "LauraHarth",
+            "name": "Laura Harth 😷",
+            "size": 3557
+        },
+        {
+            "id": "MrAndyNgo",
+            "name": "Andy Ngô",
+            "size": 784886
+        },
+        {
+            "id": "ccadelago",
+            "name": "Christopher Cadelago",
+            "size": 21999
+        },
+        {
+            "id": "SimplehumanKant",
+            "name": "World Citizen - Now on Koo",
+            "size": 397
+        },
+        {
+            "id": "ray06882870",
+            "name": "ray",
+            "size": 3
+        },
+        {
+            "id": "EmiliWinst",
+            "name": "Emili Winst",
+            "size": 12487
+        },
+        {
+            "id": "JGaffneyUSN",
+            "name": "Jonathan Gaffney 🇺🇸",
+            "size": 14473
+        },
+        {
+            "id": "amnesty",
+            "name": "Amnesty International",
+            "size": 1794168
+        },
+        {
+            "id": "anna26681062",
+            "name": "azi1980",
+            "size": 598
+        },
+        {
+            "id": "iranusa2021",
+            "name": "💙travis bickle💙",
+            "size": 118
+        },
+        {
+            "id": "budasinan",
+            "name": "Sinan Gokcen",
+            "size": 1215
+        },
+        {
+            "id": "barisalt",
+            "name": "Barış Altıntaş",
+            "size": 1352
+        },
+        {
+            "id": "mlsaturkey",
+            "name": "MLSA",
+            "size": 8434
+        },
+        {
+            "id": "esinclairwebb",
+            "name": "Emma Sinclair-Webb",
+            "size": 25182
+        },
+        {
+            "id": "crdefenders",
+            "name": "Civil Rights Defenders",
+            "size": 9713
+        },
+        {
+            "id": "GayleKing",
+            "name": "Gayle King",
+            "size": 1050022
+        },
+        {
+            "id": "azadeh96655740",
+            "name": "azadeh",
+            "size": 145
+        },
+        {
+            "id": "ZoeTillman",
+            "name": "Zoe Tillman",
+            "size": 153100
+        },
+        {
+            "id": "EricWolfson",
+            "name": "Eric Wolfson",
+            "size": 15522
+        },
+        {
+            "id": "jiggyjayy2",
+            "name": "The Casual Sex Captain",
+            "size": 82489
+        },
+        {
+            "id": "labyrinthweaver",
+            "name": "Exploding Space Pillow Singh, MD 🌊",
+            "size": 38335
+        },
+        {
+            "id": "RepChuyGarcia",
+            "name": "Congressman Chuy García",
+            "size": 15036
+        },
+        {
+            "id": "Sara1985aa",
+            "name": "Sara",
+            "size": 54
+        },
+        {
+            "id": "NasimTab",
+            "name": "nasim_tab",
+            "size": 43
+        },
+        {
+            "id": "malih66158037",
+            "name": "malih",
+            "size": 489
+        },
+        {
+            "id": "THEWALL93129037",
+            "name": "THE WALL",
+            "size": 198
+        },
+        {
+            "id": "tata24220777",
+            "name": "Tata",
+            "size": 8
+        },
+        {
+            "id": "fatemeh68312558",
+            "name": "fatemeh",
+            "size": 29
+        },
+        {
+            "id": "Rosenbin1",
+            "name": "Rosenbin",
+            "size": 37
+        },
+        {
+            "id": "bannerite",
+            "name": "Pat Fuller MA BsEd. #EmbraceHope #WearAMask #BLM",
+            "size": 93849
+        },
+        {
+            "id": "usbank",
+            "name": "U.S. Bank",
+            "size": 42145
+        },
+        {
+            "id": "dv_reporter",
+            "name": "DV Reporter",
+            "size": 179
+        },
+        {
+            "id": "mbachelet",
+            "name": "Michelle Bachelet",
+            "size": 794830
+        },
+        {
+            "id": "SeifGebre",
+            "name": "Seifesilassie Gebremeskel",
+            "size": 32840
+        },
+        {
+            "id": "UN_HRC",
+            "name": "UN Human Rights Council",
+            "size": 353085
+        },
+        {
+            "id": "HouseForeign",
+            "name": "House Foreign Affairs Committee",
+            "size": 99525
+        },
+        {
+            "id": "WHNSC",
+            "name": "National Security Council",
+            "size": 5455
+        },
+        {
+            "id": "SenateForeign",
+            "name": "Senate Foreign Relations Committee Ranking Member",
+            "size": 31816
+        },
+        {
+            "id": "stevenportnoy",
+            "name": "Steven Portnoy",
+            "size": 37042
+        },
+        {
+            "id": "Nebio13",
+            "name": "Nebio",
+            "size": 109
+        },
+        {
+            "id": "staceyabrams",
+            "name": "Stacey Abrams",
+            "size": 2574745
+        },
+        {
+            "id": "CongressmanRaja",
+            "name": "Congressman Raja Krishnamoorthi",
+            "size": 130983
+        },
+        {
+            "id": "RepZoeLofgren",
+            "name": "Rep. Zoe Lofgren",
+            "size": 78683
+        },
+        {
+            "id": "WHCOS",
+            "name": "Ronald Klain",
+            "size": 390236
+        },
+        {
+            "id": "diana4candor",
+            "name": "It's OK to Not be Okay. But, We’ll Be Ok",
+            "size": 2508
+        },
+        {
+            "id": "GrayAansi",
+            "name": "Gray Aansi",
+            "size": 355
+        },
+        {
+            "id": "AOC",
+            "name": "Alexandria Ocasio-Cortez",
+            "size": 12684673
+        },
+        {
+            "id": "CNN",
+            "name": "CNN",
+            "size": 53321129
+        },
+        {
+            "id": "IlhanMN",
+            "name": "Ilhan Omar",
+            "size": 2977536
+        },
+        {
+            "id": "MSNBC",
+            "name": "MSNBC",
+            "size": 4167709
+        },
+        {
+            "id": "HouseDemocrats",
+            "name": "House Democrats",
+            "size": 1258588
+        },
+        {
+            "id": "EmilyMutanda",
+            "name": "Emily Mutanda",
+            "size": 23
+        },
+        {
+            "id": "SenateGOP",
+            "name": "Senate Republicans",
+            "size": 1244666
+        },
+        {
+            "id": "DHSgov",
+            "name": "Homeland Security",
+            "size": 2204248
+        },
+        {
+            "id": "S386forus",
+            "name": "bahukAlataH pratikSAM karomi",
+            "size": 64
+        },
+        {
+            "id": "TPM",
+            "name": "Talking Points Memo",
+            "size": 280007
+        },
+        {
+            "id": "Mehran6911",
+            "name": "Mehran69",
+            "size": 151
+        },
+        {
+            "id": "cthagod",
+            "name": "Charlamagne Tha God",
+            "size": 2163564
+        },
+        {
+            "id": "usedgov",
+            "name": "U.S. Department of Education",
+            "size": 1375792
+        },
+        {
+            "id": "RepPressley",
+            "name": "Congresswoman Ayanna Pressley",
+            "size": 534725
+        },
+        {
+            "id": "teo_teo74539687",
+            "name": "teo",
+            "size": 9
+        },
+        {
+            "id": "RashidaTlaib",
+            "name": "Rashida Tlaib",
+            "size": 1456913
+        },
+        {
+            "id": "lmd122",
+            "name": "Lisa Davis ZoomZoom I will get vaccinated",
+            "size": 674
+        },
+        {
+            "id": "consultant_sv",
+            "name": "SV_consultant",
+            "size": 45
+        },
+        {
+            "id": "SenDuckworth",
+            "name": "Tammy Duckworth",
+            "size": 758366
+        },
+        {
+            "id": "ImranKhanPTI",
+            "name": "Imran Khan",
+            "size": 13442673
+        },
+        {
+            "id": "YikeYuke",
+            "name": "Yi-Long",
+            "size": 119
+        },
+        {
+            "id": "chrislhayes",
+            "name": "Chris Hayes",
+            "size": 2418170
+        },
+        {
+            "id": "BorisJohnson",
+            "name": "Boris Johnson",
+            "size": 3407055
+        },
+        {
+            "id": "pennyparker0523",
+            "name": "Penny Parker 🇺🇸",
+            "size": 21988
+        },
+        {
+            "id": "Roozersmom",
+            "name": "Kirstin",
+            "size": 1458
+        },
+        {
+            "id": "SenatorDurbin",
+            "name": "Senator Dick Durbin",
+            "size": 727907
+        },
+        {
+            "id": "AlterNet",
+            "name": "AlterNet",
+            "size": 137757
+        },
+        {
+            "id": "mastazz1",
+            "name": "Michael Stazzone",
+            "size": 7338
+        },
+        {
+            "id": "sanjeev93882222",
+            "name": "sanjeev",
+            "size": 755
+        },
+        {
+            "id": "FeedingNEFL",
+            "name": "Feeding Northeast FL",
+            "size": 1223
+        },
+        {
+            "id": "RepAlLawsonJr",
+            "name": "US Rep. Al Lawson Jr",
+            "size": 15396
+        },
+        {
+            "id": "ma2kbcj",
+            "name": "Rose",
+            "size": 47
+        },
+        {
+            "id": "nikkifried",
+            "name": "Nikki Fried",
+            "size": 126045
+        },
+        {
+            "id": "ncbcp_bwr",
+            "name": "The Black Women's Roundtable",
+            "size": 4440
+        },
+        {
+            "id": "LSTrip44",
+            "name": "Long Strange Trip",
+            "size": 7835
+        },
+        {
+            "id": "ljanem",
+            "name": "Jane",
+            "size": 735
+        },
+        {
+            "id": "fawfulfan",
+            "name": "Matthew Chapman",
+            "size": 95594
+        },
+        {
+            "id": "SenSchumer",
+            "name": "Chuck Schumer",
+            "size": 3221008
+        },
+        {
+            "id": "DannyM33612501",
+            "name": "Danny_M",
+            "size": 39
+        },
+        {
+            "id": "DNC",
+            "name": "Democratic Party",
+            "size": 127015
+        },
+        {
+            "id": "tiger_lily4819",
+            "name": "Amber Shepherd",
+            "size": 1
+        },
+        {
+            "id": "CNNPolitics",
+            "name": "CNN Politics",
+            "size": 4102816
+        },
+        {
+            "id": "diannemando",
+            "name": "Dear Friend",
+            "size": 4024
+        },
+        {
+            "id": "Soliyana0",
+            "name": "Yohana",
+            "size": 37
+        },
+        {
+            "id": "jamesks1987",
+            "name": "James Stewart",
+            "size": 122
+        },
+        {
+            "id": "SteveSm05240063",
+            "name": "Steve Smith",
+            "size": 1
+        },
+        {
+            "id": "BrooksYaneiris",
+            "name": "Janette",
+            "size": 71
+        },
+        {
+            "id": "EthanBu28980868",
+            "name": "Ethan Burke",
+            "size": 9
+        },
+        {
+            "id": "pstevenson1961",
+            "name": "PStevenson",
+            "size": 172
+        },
+        {
+            "id": "RastaRedpill",
+            "name": "Rasta Redpill",
+            "size": 2029
+        },
+        {
+            "id": "SecondTerm45",
+            "name": "MAGa HATTER 🇺🇸",
+            "size": 1279
+        },
+        {
+            "id": "SistahWilson",
+            "name": "Fallon Wilson, PhD",
+            "size": 2312
+        },
+        {
+            "id": "FCC",
+            "name": "The FCC",
+            "size": 711433
+        },
+        {
+            "id": "HillaryClinton",
+            "name": "Hillary Clinton",
+            "size": 30959827
+        },
+        {
+            "id": "RonHall46",
+            "name": "Ron *Thug* Hall",
+            "size": 46752
+        },
+        {
+            "id": "MeaghanBLynch",
+            "name": "Meaghan Lynch",
+            "size": 18272
+        },
+        {
+            "id": "SecFudge",
+            "name": "Secretary Marcia L. Fudge",
+            "size": 103163
+        },
+        {
+            "id": "AmbassadorRice",
+            "name": "Susan Rice",
+            "size": 689033
+        },
+        {
+            "id": "rezvanmirzaei",
+            "name": "rezvan",
+            "size": 401
+        },
+        {
+            "id": "hiben123",
+            "name": "Ir. Mehari Hiben, PhD Fel.🇺🇸",
+            "size": 469
+        },
+        {
+            "id": "KThomasDC",
+            "name": "Ken Thomas",
+            "size": 35298
+        },
+        {
+            "id": "kaitlancollins",
+            "name": "Kaitlan Collins",
+            "size": 1182900
+        },
+        {
+            "id": "mikememoli",
+            "name": "Mike Memoli",
+            "size": 70041
+        },
+        {
+            "id": "KwikWarren",
+            "name": "Kenny BooYah!",
+            "size": 51465
+        },
+        {
+            "id": "Kilo_mic_mic",
+            "name": "kilo-mike",
+            "size": 57
+        },
+        {
+            "id": "markets",
+            "name": "Bloomberg Markets",
+            "size": 881895
+        },
+        {
+            "id": "ChuckCallesto",
+            "name": "Chuck Callesto",
+            "size": 256319
+        },
+        {
+            "id": "Dale01000803",
+            "name": "Dale",
+            "size": 6
+        },
+        {
+            "id": "ReplicantX6",
+            "name": "Ⓥ",
+            "size": 6153
+        },
+        {
+            "id": "bethritter1",
+            "name": "Beth Ritter",
+            "size": 16
+        },
+        {
+            "id": "DTNWeather",
+            "name": "DTN Weather",
+            "size": 6265
+        },
+        {
+            "id": "UNReliefChief",
+            "name": "Mark Lowcock",
+            "size": 78015
+        },
+        {
+            "id": "antonioguterres",
+            "name": "António Guterres",
+            "size": 1213468
+        },
+        {
+            "id": "hafto35",
+            "name": "Haftom Tesfay",
+            "size": 67
+        },
+        {
+            "id": "FilippoGrandi",
+            "name": "Filippo Grandi",
+            "size": 104024
+        },
+        {
+            "id": "BashaDesta",
+            "name": "Báshá Déstá(እናኸድካ ምኻድ)",
+            "size": 16395
+        },
+        {
+            "id": "mahdavi00102645",
+            "name": "mahdavi",
+            "size": 45
+        },
+        {
+            "id": "Alireza1kayzi",
+            "name": "Alireza",
+            "size": 54
+        },
+        {
+            "id": "nermin_Azer",
+            "name": "Nermin",
+            "size": 191
+        },
+        {
+            "id": "UNPeacebuilding",
+            "name": "UN Peacebuilding",
+            "size": 30680
+        },
+        {
+            "id": "chrisorganizsac",
+            "name": "Chris Sacramento Organizer",
+            "size": 3723
+        },
+        {
+            "id": "Ahmadi7337",
+            "name": "morteza ahmadi",
+            "size": 73
+        },
+        {
+            "id": "ZariniMajid",
+            "name": "Majid Zarini",
+            "size": 48
+        },
+        {
+            "id": "samane_ebr",
+            "name": "samane_ebr",
+            "size": 76
+        },
+        {
+            "id": "mtgreenee",
+            "name": "Marjorie Taylor Greene 🇺🇸",
+            "size": 384340
+        },
+        {
+            "id": "Beti_Golriz",
+            "name": "Beti",
+            "size": 97
+        },
+        {
+            "id": "HODA13311",
+            "name": "HODA1331",
+            "size": 169
+        },
+        {
+            "id": "JCEgan1",
+            "name": "JoJoNJ",
+            "size": 18
+        },
+        {
+            "id": "uwinst",
+            "name": "Ulrike Winston",
+            "size": 187
+        },
+        {
+            "id": "mikesarzo",
+            "name": "Mike Sarzo 😷",
+            "size": 9428
+        },
+        {
+            "id": "tedcruz",
+            "name": "Ted Cruz",
+            "size": 4367838
+        },
+        {
+            "id": "Chris_1791",
+            "name": "Chris 🇺🇸",
+            "size": 61753
+        },
+        {
+            "id": "srozycki1219",
+            "name": "srozycki",
+            "size": 129
+        },
+        {
+            "id": "BillWylie3rd",
+            "name": "W.J.Wylie3 it was an attempted coup not a riot",
+            "size": 2610
+        },
+        {
+            "id": "JarigdonJohn",
+            "name": "JR",
+            "size": 142
+        },
+        {
+            "id": "TheOriginalWTH",
+            "name": "Jason Bourne",
+            "size": 2384
+        },
+        {
+            "id": "BerieKidist",
+            "name": "Kidist Berie",
+            "size": 145
+        },
+        {
+            "id": "MearegG3",
+            "name": "Meareg",
+            "size": 1742
+        },
+        {
+            "id": "peterbelayneh",
+            "name": "peterbelayneh",
+            "size": 10461
+        },
+        {
+            "id": "AlsaeediAnwar",
+            "name": "Anwar Alsaeedi",
+            "size": 170
+        },
+        {
+            "id": "MOJO05536768",
+            "name": "M.O.J.O",
+            "size": 305
+        },
+        {
+            "id": "hoda139013",
+            "name": "HODA139013",
+            "size": 131
+        },
+        {
+            "id": "Trisha_Tahmasbi",
+            "name": "Trisha",
+            "size": 4453
+        },
+        {
+            "id": "nonmaladjusted",
+            "name": "RorschachTest Failure",
+            "size": 1445
+        },
+        {
+            "id": "BarbaraLNewsome",
+            "name": "Burn the shit down.",
+            "size": 9136
+        },
+        {
+            "id": "FaerieWhings",
+            "name": "Beth",
+            "size": 8096
+        },
+        {
+            "id": "mmtconline",
+            "name": "MMTC",
+            "size": 3108
+        },
+        {
+            "id": "latimes",
+            "name": "Los Angeles Times",
+            "size": 3806521
+        },
+        {
+            "id": "chicagotribune",
+            "name": "Chicago Tribune",
+            "size": 1127564
+        },
+        {
+            "id": "nytimes",
+            "name": "The New York Times",
+            "size": 49689501
+        },
+        {
+            "id": "washingtonpost",
+            "name": "The Washington Post",
+            "size": 17772763
+        },
+        {
+            "id": "VGPNetwork",
+            "name": "VGPNetwork",
+            "size": 3191
+        },
+        {
+            "id": "WashingtonNFL",
+            "name": "Washington Football Team",
+            "size": 1301307
+        },
+        {
+            "id": "sbjsbd",
+            "name": "Sports Business Journal",
+            "size": 113971
+        },
+        {
+            "id": "juliedonaldson_",
+            "name": "Julie Donaldson",
+            "size": 27508
+        },
+        {
+            "id": "Alisand3",
+            "name": "Alisande",
+            "size": 17562
+        },
+        {
+            "id": "Phyllis94584953",
+            "name": "Phyllis",
+            "size": 4325
+        },
+        {
+            "id": "AsoboStudio",
+            "name": "Asobo Studio ✈️🐀",
+            "size": 26351
+        },
+        {
+            "id": "GOP",
+            "name": "GOP",
+            "size": 2731579
+        },
+        {
+            "id": "TerryCrafton",
+            "name": "Terry Crafton",
+            "size": 1472
+        },
+        {
+            "id": "RepDLamborn",
+            "name": "Rep. Doug Lamborn",
+            "size": 33022
+        },
+        {
+            "id": "RepAdamSchiff",
+            "name": "Adam Schiff",
+            "size": 2932883
+        },
+        {
+            "id": "APlagueTale",
+            "name": "A Plague Tale",
+            "size": 19272
+        },
+        {
+            "id": "Truth20204",
+            "name": "Warrior1988",
+            "size": 6
+        },
+        {
+            "id": "BreitbartNews",
+            "name": "Breitbart News",
+            "size": 1488607
+        },
+        {
+            "id": "CrphMyanmar",
+            "name": "CRPH Myanmar",
+            "size": 181936
+        },
+        {
+            "id": "jkenn1212",
+            "name": "Aloysius Bartholomew Zanzibar",
+            "size": 173
+        },
+        {
+            "id": "dailycallout",
+            "name": "David Croom - (ツ)",
+            "size": 16857
+        },
+        {
+            "id": "profmusgrave",
+            "name": "Paul Musgrave",
+            "size": 45319
+        },
+        {
+            "id": "JasonOverstreet",
+            "name": "Jason Overstreet 🩸🦷🗽",
+            "size": 51041
+        },
+        {
+            "id": "jonmladd",
+            "name": "Jonathan Ladd",
+            "size": 14543
+        },
+        {
+            "id": "KatherineLeiba",
+            "name": "Katherine The Great",
+            "size": 53
+        },
+        {
+            "id": "LeongWaiKitCNA",
+            "name": "Leong Wai Kit",
+            "size": 15472
+        },
+        {
+            "id": "Editor_of_Eric",
+            "name": "Eric the editor 🇺🇸🍻⚽️🌊",
+            "size": 6364
+        },
+        {
+            "id": "BlueIn2022",
+            "name": "BlueIn2022",
+            "size": 193
+        },
+        {
+            "id": "chennithala",
+            "name": "Ramesh Chennithala",
+            "size": 57490
+        },
+        {
+            "id": "aprileighteen",
+            "name": "Her MaJESSty",
+            "size": 951
+        },
+        {
+            "id": "TheRickyDavila",
+            "name": "Ricky Davila",
+            "size": 349825
+        },
+        {
+            "id": "PamelaAdger",
+            "name": "Biogeek 🧪🧬🔬",
+            "size": 82
+        },
+        {
+            "id": "FootballJOE",
+            "name": "FootballJOE",
+            "size": 407095
+        },
+        {
+            "id": "Mickeyshire",
+            "name": "Mickey shire —Tigray—Independence",
+            "size": 23
+        },
+        {
+            "id": "Tata83847619",
+            "name": "Tata",
+            "size": 33
+        },
+        {
+            "id": "NASKA_CEO",
+            "name": "pappy_gh🇬🇭",
+            "size": 213
+        },
+        {
+            "id": "MicroFocusSec",
+            "name": "CyberRes",
+            "size": 16597
+        },
+        {
+            "id": "dez_blanchfield",
+            "name": "dez",
+            "size": 207415
+        },
+        {
+            "id": "MamboJayZim",
+            "name": "King Jay",
+            "size": 2241
+        },
+        {
+            "id": "RaymondEMosher",
+            "name": "Raymond E. Mosher",
+            "size": 1718
+        },
+        {
+            "id": "hockeynight",
+            "name": "Hockey Night in Canada",
+            "size": 623734
+        },
+        {
+            "id": "sahilkapur",
+            "name": "Sahil Kapur",
+            "size": 183957
+        },
+        {
+            "id": "virginianpilot",
+            "name": "The Virginian-Pilot",
+            "size": 122896
+        },
+        {
+            "id": "iesha_irene",
+            "name": "iesha irene",
+            "size": 1601
+        },
+        {
+            "id": "NewDay",
+            "name": "New Day",
+            "size": 353501
+        },
+        {
+            "id": "USAmbUN",
+            "name": "Ambassador Linda Thomas-Greenfield",
+            "size": 63397
+        },
+        {
+            "id": "ericisaac",
+            "name": "eric isaac 🌹",
+            "size": 3219
+        },
+        {
+            "id": "tify330",
+            "name": "Candidly Tiff: Spring has Sprung! 🌼🌺",
+            "size": 10786
+        },
+        {
+            "id": "CrossFitGames",
+            "name": "The CrossFit Games",
+            "size": 734281
+        },
+        {
+            "id": "camiloreports",
+            "name": "Camilo Montoya-Galvez",
+            "size": 6501
+        },
+        {
+            "id": "dukewindsor388",
+            "name": "🌊 Death Row Tull 🌊",
+            "size": 47905
+        },
+        {
+            "id": "OoCPokemon",
+            "name": "Out of Context Pokemon",
+            "size": 488283
+        },
+        {
+            "id": "axios",
+            "name": "Axios",
+            "size": 572200
+        },
+        {
+            "id": "MaggieGray",
+            "name": "Maggie Gray",
+            "size": 32018
+        },
+        {
+            "id": "jemelehill",
+            "name": "Jemele Hill",
+            "size": 1425653
+        },
+        {
+            "id": "heartyphblog",
+            "name": "❤️HeaRty.PH",
+            "size": 2397
+        },
+        {
+            "id": "Nilowfar3",
+            "name": "Nilowfar",
+            "size": 177
+        },
+        {
+            "id": "BioRNCluster",
+            "name": "BioRN Life Science Cluster Rhine-Neckar",
+            "size": 1533
+        },
+        {
+            "id": "SHERNI__",
+            "name": "SHERNI",
+            "size": 148
+        },
+        {
+            "id": "StephRCaudle",
+            "name": "Stephanie Alston Caudle | Publicist",
+            "size": 2836
+        },
+        {
+            "id": "m_roshanzadeh",
+            "name": "m.roshanzadeh",
+            "size": 50
+        },
+        {
+            "id": "GuerrillaGames",
+            "name": "Guerrilla Games",
+            "size": 14
+        },
+        {
+            "id": "moslem67733488",
+            "name": "moslem",
+            "size": 16
+        },
+        {
+            "id": "WaitingOnBiden",
+            "name": "Has Biden Done Anything Yet?",
+            "size": 73314
+        },
+        {
+            "id": "jayneabrams2",
+            "name": "jayne abrams",
+            "size": 488
+        },
+        {
+            "id": "thehill",
+            "name": "The Hill",
+            "size": 4151434
+        },
+        {
+            "id": "hamed01905562",
+            "name": "Hamed Ghasemi",
+            "size": 70
+        },
+        {
+            "id": "stass___",
+            "name": "✨bitchy witch✨",
+            "size": 1331
+        },
+        {
+            "id": "BearsBarroom",
+            "name": "Bears Barroom | Barroom Network",
+            "size": 12071
+        }
+    ],
+    "links": [
+        {
+            "source": "VP",
+            "target": "VP",
+            "weight": 1.0
+        },
+        {
+            "source": "VP",
+            "target": "CBSThisMorning",
+            "weight": 0.351
+        },
+        {
+            "source": "VP",
+            "target": "POTUS",
+            "weight": 0.285
+        },
+        {
+            "source": "VP",
+            "target": "KamalaHarris",
+            "weight": 0.218
+        },
+        {
+            "source": "VP",
+            "target": "SecBlinken",
+            "weight": 0.121
+        },
+        {
+            "source": "VP",
+            "target": "FoxNews",
+            "weight": 0.097
+        },
+        {
+            "source": "VP",
+            "target": "JackPosobiec",
+            "weight": 0.072
+        },
+        {
+            "source": "VP",
+            "target": "USEmbassyTurkey",
+            "weight": 0.07
+        },
+        {
+            "source": "VP",
+            "target": "usembarmenia",
+            "weight": 0.068
+        },
+        {
+            "source": "VP",
+            "target": "WhiteHouse",
+            "weight": 0.067
+        },
+        {
+            "source": "VP",
+            "target": "USAinUAE",
+            "weight": 0.062
+        },
+        {
+            "source": "VP",
+            "target": "SpeakerPelosi",
+            "weight": 0.06
+        },
+        {
+            "source": "VP",
+            "target": "ACLU",
+            "weight": 0.059
+        },
+        {
+            "source": "VP",
+            "target": "RadioFreeTom",
+            "weight": 0.057
+        },
+        {
+            "source": "VP",
+            "target": "juul_survivor",
+            "weight": 0.057
+        },
+        {
+            "source": "VP",
+            "target": "USCIS",
+            "weight": 0.052
+        },
+        {
+            "source": "VP",
+            "target": "RepLindaSanchez",
+            "weight": 0.051
+        },
+        {
+            "source": "VP",
+            "target": "StateDeptSpox",
+            "weight": 0.051
+        },
+        {
+            "source": "VP",
+            "target": "USEnvoyIran",
+            "weight": 0.051
+        },
+        {
+            "source": "VP",
+            "target": "shima_f64",
+            "weight": 0.051
+        },
+        {
+            "source": "VP",
+            "target": "StateDept",
+            "weight": 0.05
+        },
+        {
+            "source": "VP",
+            "target": "FatemeBaran",
+            "weight": 0.044
+        },
+        {
+            "source": "VP",
+            "target": "BernardKerik",
+            "weight": 0.043
+        },
+        {
+            "source": "VP",
+            "target": "TravelGov",
+            "weight": 0.038
+        },
+        {
+            "source": "VP",
+            "target": "EthioHRC",
+            "weight": 0.034
+        },
+        {
+            "source": "VP",
+            "target": "AILANational",
+            "weight": 0.032
+        },
+        {
+            "source": "VP",
+            "target": "radv2021",
+            "weight": 0.032
+        },
+        {
+            "source": "VP",
+            "target": "SecBecerra",
+            "weight": 0.031
+        },
+        {
+            "source": "VP",
+            "target": "adc",
+            "weight": 0.029
+        },
+        {
+            "source": "VP",
+            "target": "USABehFarsi",
+            "weight": 0.028
+        },
+        {
+            "source": "VP",
+            "target": "edokeefe",
+            "weight": 0.028
+        },
+        {
+            "source": "VP",
+            "target": "tperry518",
+            "weight": 0.028
+        },
+        {
+            "source": "VP",
+            "target": "LadyJayPersists",
+            "weight": 0.025
+        },
+        {
+            "source": "VP",
+            "target": "GpGpLESLIE",
+            "weight": 0.024
+        },
+        {
+            "source": "VP",
+            "target": "JoeBiden",
+            "weight": 0.021
+        },
+        {
+            "source": "VP",
+            "target": "shahinsamani72",
+            "weight": 0.019
+        },
+        {
+            "source": "VP",
+            "target": "therecount",
+            "weight": 0.019
+        },
+        {
+            "source": "VP",
+            "target": "AHeidarinejad",
+            "weight": 0.019
+        },
+        {
+            "source": "VP",
+            "target": "TBolouki",
+            "weight": 0.019
+        },
+        {
+            "source": "VP",
+            "target": "Nahalforoutan65",
+            "weight": 0.019
+        },
+        {
+            "source": "VP",
+            "target": "yousef85059331",
+            "weight": 0.018
+        },
+        {
+            "source": "VP",
+            "target": "AP",
+            "weight": 0.017
+        },
+        {
+            "source": "VP",
+            "target": "BillClinton",
+            "weight": 0.017
+        },
+        {
+            "source": "VP",
+            "target": "ElijahSchaffer",
+            "weight": 0.017
+        },
+        {
+            "source": "VP",
+            "target": "AokoOtieno_",
+            "weight": 0.017
+        },
+        {
+            "source": "VP",
+            "target": "FLOTUS",
+            "weight": 0.017
+        },
+        {
+            "source": "VP",
+            "target": "AlwaysThinkHow",
+            "weight": 0.016
+        },
+        {
+            "source": "VP",
+            "target": "AliMayorkas",
+            "weight": 0.016
+        },
+        {
+            "source": "VP",
+            "target": "Not_the_Bee",
+            "weight": 0.014
+        },
+        {
+            "source": "VP",
+            "target": "oXxRowanxXo",
+            "weight": 0.014
+        },
+        {
+            "source": "VP",
+            "target": "SecMayorkas",
+            "weight": 0.014
+        },
+        {
+            "source": "VP",
+            "target": "hrw",
+            "weight": 0.014
+        },
+        {
+            "source": "VP",
+            "target": "AfsoonAtaei",
+            "weight": 0.013
+        },
+        {
+            "source": "VP",
+            "target": "GCBCoalition",
+            "weight": 0.013
+        },
+        {
+            "source": "VP",
+            "target": "Mahnnazz5",
+            "weight": 0.013
+        },
+        {
+            "source": "VP",
+            "target": "jasmin01811204",
+            "weight": 0.013
+        },
+        {
+            "source": "VP",
+            "target": "shjsh8325",
+            "weight": 0.012
+        },
+        {
+            "source": "VP",
+            "target": "Roshan_Rinaldi",
+            "weight": 0.012
+        },
+        {
+            "source": "VP",
+            "target": "DrDooleyMD",
+            "weight": 0.012
+        },
+        {
+            "source": "VP",
+            "target": "OmnaTigray",
+            "weight": 0.012
+        },
+        {
+            "source": "VP",
+            "target": "PressSec",
+            "weight": 0.012
+        },
+        {
+            "source": "VP",
+            "target": "mkraju",
+            "weight": 0.011
+        },
+        {
+            "source": "VP",
+            "target": "SenateDems",
+            "weight": 0.011
+        },
+        {
+            "source": "VP",
+            "target": "johnstodder",
+            "weight": 0.01
+        },
+        {
+            "source": "VP",
+            "target": "Marishokufe",
+            "weight": 0.01
+        },
+        {
+            "source": "VP",
+            "target": "AbiyAhmedAli",
+            "weight": 0.01
+        },
+        {
+            "source": "VP",
+            "target": "Not45155100",
+            "weight": 0.01
+        },
+        {
+            "source": "VP",
+            "target": "SFUnified",
+            "weight": 0.01
+        },
+        {
+            "source": "VP",
+            "target": "PaoloFormentin1",
+            "weight": 0.01
+        },
+        {
+            "source": "VP",
+            "target": "LauraHarth",
+            "weight": 0.01
+        },
+        {
+            "source": "VP",
+            "target": "MrAndyNgo",
+            "weight": 0.01
+        },
+        {
+            "source": "VP",
+            "target": "ccadelago",
+            "weight": 0.01
+        },
+        {
+            "source": "VP",
+            "target": "SimplehumanKant",
+            "weight": 0.01
+        },
+        {
+            "source": "VP",
+            "target": "ray06882870",
+            "weight": 0.01
+        },
+        {
+            "source": "VP",
+            "target": "EmiliWinst",
+            "weight": 0.01
+        },
+        {
+            "source": "VP",
+            "target": "JGaffneyUSN",
+            "weight": 0.01
+        },
+        {
+            "source": "VP",
+            "target": "amnesty",
+            "weight": 0.009
+        },
+        {
+            "source": "VP",
+            "target": "anna26681062",
+            "weight": 0.009
+        },
+        {
+            "source": "VP",
+            "target": "iranusa2021",
+            "weight": 0.009
+        },
+        {
+            "source": "VP",
+            "target": "budasinan",
+            "weight": 0.008
+        },
+        {
+            "source": "VP",
+            "target": "barisalt",
+            "weight": 0.008
+        },
+        {
+            "source": "VP",
+            "target": "mlsaturkey",
+            "weight": 0.008
+        },
+        {
+            "source": "VP",
+            "target": "esinclairwebb",
+            "weight": 0.008
+        },
+        {
+            "source": "VP",
+            "target": "crdefenders",
+            "weight": 0.008
+        },
+        {
+            "source": "VP",
+            "target": "GayleKing",
+            "weight": 0.008
+        },
+        {
+            "source": "VP",
+            "target": "azadeh96655740",
+            "weight": 0.007
+        },
+        {
+            "source": "VP",
+            "target": "ZoeTillman",
+            "weight": 0.007
+        },
+        {
+            "source": "VP",
+            "target": "EricWolfson",
+            "weight": 0.007
+        },
+        {
+            "source": "VP",
+            "target": "jiggyjayy2",
+            "weight": 0.007
+        },
+        {
+            "source": "VP",
+            "target": "labyrinthweaver",
+            "weight": 0.007
+        },
+        {
+            "source": "VP",
+            "target": "RepChuyGarcia",
+            "weight": 0.007
+        },
+        {
+            "source": "VP",
+            "target": "Sara1985aa",
+            "weight": 0.007
+        },
+        {
+            "source": "VP",
+            "target": "NasimTab",
+            "weight": 0.007
+        },
+        {
+            "source": "VP",
+            "target": "malih66158037",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "THEWALL93129037",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "tata24220777",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "fatemeh68312558",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "Rosenbin1",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "bannerite",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "usbank",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "dv_reporter",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "mbachelet",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "SeifGebre",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "UN_HRC",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "HouseForeign",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "WHNSC",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "SenateForeign",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "stevenportnoy",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "Nebio13",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "staceyabrams",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "CongressmanRaja",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "RepZoeLofgren",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "WHCOS",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "diana4candor",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "GrayAansi",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "AOC",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "CNN",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "IlhanMN",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "MSNBC",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "HouseDemocrats",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "EmilyMutanda",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "SenateGOP",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "DHSgov",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "S386forus",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "TPM",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "Mehran6911",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "cthagod",
+            "weight": 0.006
+        },
+        {
+            "source": "VP",
+            "target": "usedgov",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "RepPressley",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "teo_teo74539687",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "RashidaTlaib",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "lmd122",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "consultant_sv",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "SenDuckworth",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "ImranKhanPTI",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "YikeYuke",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "chrislhayes",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "BorisJohnson",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "pennyparker0523",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "Roozersmom",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "SenatorDurbin",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "AlterNet",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "mastazz1",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "sanjeev93882222",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "FeedingNEFL",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "RepAlLawsonJr",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "ma2kbcj",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "nikkifried",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "ncbcp_bwr",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "LSTrip44",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "ljanem",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "fawfulfan",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "SenSchumer",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "DannyM33612501",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "DNC",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "tiger_lily4819",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "CNNPolitics",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "diannemando",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "Soliyana0",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "jamesks1987",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "SteveSm05240063",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "BrooksYaneiris",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "EthanBu28980868",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "pstevenson1961",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "RastaRedpill",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "SecondTerm45",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "SistahWilson",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "FCC",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "HillaryClinton",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "RonHall46",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "MeaghanBLynch",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "SecFudge",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "AmbassadorRice",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "rezvanmirzaei",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "hiben123",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "KThomasDC",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "kaitlancollins",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "mikememoli",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "KwikWarren",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "Kilo_mic_mic",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "markets",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "ChuckCallesto",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "Dale01000803",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "ReplicantX6",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "bethritter1",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "DTNWeather",
+            "weight": 0.005
+        },
+        {
+            "source": "VP",
+            "target": "UNReliefChief",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "antonioguterres",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "hafto35",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "FilippoGrandi",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "BashaDesta",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "mahdavi00102645",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "Alireza1kayzi",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "nermin_Azer",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "UNPeacebuilding",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "chrisorganizsac",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "Ahmadi7337",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "ZariniMajid",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "samane_ebr",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "mtgreenee",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "Beti_Golriz",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "HODA13311",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "JCEgan1",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "uwinst",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "mikesarzo",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "tedcruz",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "Chris_1791",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "srozycki1219",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "BillWylie3rd",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "JarigdonJohn",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "TheOriginalWTH",
+            "weight": 0.003
+        },
+        {
+            "source": "VP",
+            "target": "BerieKidist",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "MearegG3",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "peterbelayneh",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "AlsaeediAnwar",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "MOJO05536768",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "hoda139013",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "Trisha_Tahmasbi",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "nonmaladjusted",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "BarbaraLNewsome",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "FaerieWhings",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "mmtconline",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "latimes",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "chicagotribune",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "nytimes",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "washingtonpost",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "VGPNetwork",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "WashingtonNFL",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "sbjsbd",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "juliedonaldson_",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "Alisand3",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "Phyllis94584953",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "AsoboStudio",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "GOP",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "TerryCrafton",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "RepDLamborn",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "RepAdamSchiff",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "APlagueTale",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "Truth20204",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "BreitbartNews",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "CrphMyanmar",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "jkenn1212",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "dailycallout",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "profmusgrave",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "JasonOverstreet",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "jonmladd",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "KatherineLeiba",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "LeongWaiKitCNA",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "Editor_of_Eric",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "BlueIn2022",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "chennithala",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "aprileighteen",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "TheRickyDavila",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "PamelaAdger",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "FootballJOE",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "Mickeyshire",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "Tata83847619",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "NASKA_CEO",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "MicroFocusSec",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "dez_blanchfield",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "MamboJayZim",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "RaymondEMosher",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "hockeynight",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "sahilkapur",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "virginianpilot",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "iesha_irene",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "NewDay",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "USAmbUN",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "ericisaac",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "tify330",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "CrossFitGames",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "camiloreports",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "dukewindsor388",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "OoCPokemon",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "axios",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "MaggieGray",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "jemelehill",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "heartyphblog",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "Nilowfar3",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "BioRNCluster",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "SHERNI__",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "StephRCaudle",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "m_roshanzadeh",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "GuerrillaGames",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "moslem67733488",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "WaitingOnBiden",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "jayneabrams2",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "thehill",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "hamed01905562",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "stass___",
+            "weight": 0.002
+        },
+        {
+            "source": "VP",
+            "target": "BearsBarroom",
+            "weight": 0.002
+        }
+    ]
+}

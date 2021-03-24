@@ -1,0 +1,916 @@
+{
+    "nodes": [
+        {
+            "id": "TedCruz",
+            "name": "Ted Cruz",
+            "size": 4285472
+        },
+        {
+            "id": "ClintSmithIII",
+            "name": "Clint Smith",
+            "size": 397737
+        },
+        {
+            "id": "SethAbramson",
+            "name": "Seth Abramson",
+            "size": 936917
+        },
+        {
+            "id": "NBCNews",
+            "name": "NBC News",
+            "size": 8308881
+        },
+        {
+            "id": "RepAdamSchiff",
+            "name": "Adam Schiff",
+            "size": 2910876
+        },
+        {
+            "id": "RepSwalwell",
+            "name": "Rep. Eric Swalwell",
+            "size": 1029785
+        },
+        {
+            "id": "RepJerryNadler",
+            "name": "Rep. Nadler",
+            "size": 444063
+        },
+        {
+            "id": "RepMattGaetz",
+            "name": "Rep. Matt Gaetz",
+            "size": 1208205
+        },
+        {
+            "id": "politvidchannel",
+            "name": "PoliticsVideoChannel",
+            "size": 111672
+        },
+        {
+            "id": "RzstProgramming",
+            "name": "Resist Programming 🛰",
+            "size": 30865
+        },
+        {
+            "id": "DonaldJTrumpJr",
+            "name": "Donald Trump Jr.",
+            "size": 6692764
+        },
+        {
+            "id": "MSNBC",
+            "name": "MSNBC",
+            "size": 4098813
+        },
+        {
+            "id": "JennaEllisEsq",
+            "name": "Jenna Ellis",
+            "size": 800055
+        },
+        {
+            "id": "jeneps",
+            "name": "Jennifer Epstein",
+            "size": 145710
+        },
+        {
+            "id": "tedlieu",
+            "name": "Ted Lieu",
+            "size": 1575004
+        },
+        {
+            "id": "AnaCabrera",
+            "name": "Ana Cabrera",
+            "size": 162127
+        },
+        {
+            "id": "kylegriffin1",
+            "name": "Kyle Griffin",
+            "size": 1123177
+        },
+        {
+            "id": "PossiblyBanksy",
+            "name": "Banksy 🌊🌊🌊🌊🌊🌊🌊",
+            "size": 5289
+        },
+        {
+            "id": "AWeissmann_",
+            "name": "Andrew Weissmann",
+            "size": 71877
+        },
+        {
+            "id": "mmpadellan",
+            "name": "BrooklynDad_Defiant!",
+            "size": 882613
+        },
+        {
+            "id": "girlsreallyrule",
+            "name": "Amee Vanderpool",
+            "size": 337004
+        },
+        {
+            "id": "Harrowdown2018",
+            "name": "David Kelly on the Harrowdown Hill",
+            "size": 4003
+        },
+        {
+            "id": "cindydinh7",
+            "name": "cindydinh",
+            "size": 6
+        },
+        {
+            "id": "steandric",
+            "name": "RR Liszt",
+            "size": 168
+        },
+        {
+            "id": "bayou306",
+            "name": "Bayou306",
+            "size": 2
+        },
+        {
+            "id": "PATPmovie",
+            "name": "The Plot Against the President",
+            "size": 33344
+        },
+        {
+            "id": "AWDConservative",
+            "name": "Awakened Conservative",
+            "size": 5
+        },
+        {
+            "id": "reginaldelrodjr",
+            "name": "Reginald K. Elrod Jr.",
+            "size": 71
+        },
+        {
+            "id": "0bserv0r1",
+            "name": "0bserv0r",
+            "size": 30
+        },
+        {
+            "id": "albamonica",
+            "name": "Monica Alba",
+            "size": 51135
+        },
+        {
+            "id": "neal_katyal",
+            "name": "Neal Katyal",
+            "size": 669759
+        },
+        {
+            "id": "ChadBuder",
+            "name": "Chad Buder",
+            "size": 14299
+        },
+        {
+            "id": "KimReynoldsIA",
+            "name": "Kim Reynolds",
+            "size": 33499
+        },
+        {
+            "id": "IAGovernor",
+            "name": "Gov. Kim Reynolds",
+            "size": 34547
+        },
+        {
+            "id": "TheLeadCNN",
+            "name": "The Lead CNN",
+            "size": 246565
+        },
+        {
+            "id": "abbydphillip",
+            "name": "Abby D. Phillip",
+            "size": 712449
+        },
+        {
+            "id": "JFKucinich",
+            "name": "Jackie Kucinich",
+            "size": 55723
+        },
+        {
+            "id": "RubyforIowa",
+            "name": "Ruby Bodeker for Iowa",
+            "size": 2612
+        },
+        {
+            "id": "markcstevens_",
+            "name": "Mark C. Stevens",
+            "size": 463
+        },
+        {
+            "id": "MSFCC",
+            "name": "🇺🇸Mark S. Foster🇺🇸",
+            "size": 80
+        },
+        {
+            "id": "mtgreenee",
+            "name": "Marjorie Taylor Greene 🇺🇸",
+            "size": 355569
+        },
+        {
+            "id": "ericgarcetti",
+            "name": "Eric Garcetti",
+            "size": 322753
+        },
+        {
+            "id": "RuhleOnMSNBC",
+            "name": "MSNBC Live with Stephanie Ruhle",
+            "size": 24235
+        },
+        {
+            "id": "parentaction4ed",
+            "name": "Ontario Parent Action Network",
+            "size": 8487
+        },
+        {
+            "id": "RepMTG",
+            "name": "Rep. Marjorie Taylor Greene",
+            "size": 127823
+        },
+        {
+            "id": "AOC",
+            "name": "Alexandria Ocasio-Cortez",
+            "size": 12319758
+        },
+        {
+            "id": "MichaelCohen212",
+            "name": "Michael Cohen",
+            "size": 502686
+        },
+        {
+            "id": "Sflecce",
+            "name": "Stephen Lecce",
+            "size": 51367
+        },
+        {
+            "id": "jheil",
+            "name": "John Heilemann",
+            "size": 413111
+        },
+        {
+            "id": "SRuhle",
+            "name": "Stephanie Ruhle",
+            "size": 662806
+        },
+        {
+            "id": "meiselasb",
+            "name": "Ben Meiselas",
+            "size": 116424
+        },
+        {
+            "id": "davidmweissman",
+            "name": "David Weissman",
+            "size": 290825
+        },
+        {
+            "id": "ACTBrigitte",
+            "name": "Brigitte Gabriel",
+            "size": 266948
+        },
+        {
+            "id": "TeaPainUSA",
+            "name": "Tea Pain",
+            "size": 696750
+        },
+        {
+            "id": "BillKristol",
+            "name": "Bill Kristol",
+            "size": 878419
+        },
+        {
+            "id": "guardiannews",
+            "name": "Guardian news",
+            "size": 3463829
+        },
+        {
+            "id": "mikedebonis",
+            "name": "Mike DeBonis",
+            "size": 60840
+        },
+        {
+            "id": "FoxNews",
+            "name": "Fox News",
+            "size": 20043293
+        },
+        {
+            "id": "4TaxFairness",
+            "name": "Americans For Tax Fairness",
+            "size": 14137
+        },
+        {
+            "id": "NikkiHaley",
+            "name": "Nikki Haley",
+            "size": 676143
+        },
+        {
+            "id": "IndivisibleVent",
+            "name": "Indivisible Ventura",
+            "size": 10390
+        },
+        {
+            "id": "AP",
+            "name": "The Associated Press",
+            "size": 15040027
+        },
+        {
+            "id": "middleageriot",
+            "name": "Middle Age Riot",
+            "size": 59134
+        },
+        {
+            "id": "StevenBeschloss",
+            "name": "Steven Beschloss",
+            "size": 159896
+        },
+        {
+            "id": "nickakerman",
+            "name": "Nick Akerman",
+            "size": 30431
+        },
+        {
+            "id": "Ordinary1World",
+            "name": "Amy",
+            "size": 96106
+        },
+        {
+            "id": "VoteBetty",
+            "name": "Team Betty",
+            "size": 1341
+        },
+        {
+            "id": "realPartyFight",
+            "name": "The Patriot Party",
+            "size": 16122
+        },
+        {
+            "id": "RdotSpoon",
+            "name": "This is the voicemail for Rebekah Weatherspoon",
+            "size": 16436
+        },
+        {
+            "id": "1813Doncarlo",
+            "name": "Charles Campisi",
+            "size": 5120
+        },
+        {
+            "id": "TheMike31",
+            "name": "The Mike",
+            "size": 4037
+        },
+        {
+            "id": "kwelkernbc",
+            "name": "Kristen Welker",
+            "size": 412825
+        },
+        {
+            "id": "sayitnspinit",
+            "name": "The Nasty Italian 🇺🇸",
+            "size": 19360
+        },
+        {
+            "id": "kaitlancollins",
+            "name": "Kaitlan Collins",
+            "size": 1143793
+        },
+        {
+            "id": "jaketapper",
+            "name": "Jake Tapper",
+            "size": 3328536
+        },
+        {
+            "id": "davenewworld_2",
+            "name": "Fifty Shades of Whey",
+            "size": 116098
+        },
+        {
+            "id": "ThePubliusUSA",
+            "name": "A Hopeful Citizen",
+            "size": 105211
+        },
+        {
+            "id": "notivankabarron",
+            "name": "I̶v̶a̶n̶k̶a̶ B̶a̶r̶r̶o̶n̶ Barron #ᶠᴿᴱᴱˢᴾᴱᴱᶜᴴ🗣️",
+            "size": 10701
+        },
+        {
+            "id": "Jim_Jordan",
+            "name": "Rep. Jim Jordan",
+            "size": 1907036
+        },
+        {
+            "id": "C_Sommerfeldt",
+            "name": "Chris Sommerfeldt",
+            "size": 5744
+        },
+        {
+            "id": "frankthorp",
+            "name": "Frank Thorp V",
+            "size": 82526
+        },
+        {
+            "id": "ProjectLincoln",
+            "name": "The Lincoln Project",
+            "size": 2823475
+        },
+        {
+            "id": "jigsawtman",
+            "name": "William James",
+            "size": 1603
+        },
+        {
+            "id": "newtgingrich",
+            "name": "Newt Gingrich",
+            "size": 2284167
+        },
+        {
+            "id": "realDailyWire",
+            "name": "The Daily Wire",
+            "size": 529249
+        },
+        {
+            "id": "LincolnsBible",
+            "name": "Lincoln's Bible",
+            "size": 162111
+        },
+        {
+            "id": "nytimes",
+            "name": "The New York Times",
+            "size": 49222679
+        },
+        {
+            "id": "travisakers",
+            "name": "Travis Akers",
+            "size": 145842
+        },
+        {
+            "id": "VanityFair",
+            "name": "VANITY FAIR",
+            "size": 4858187
+        },
+        {
+            "id": "WindsorMann",
+            "name": "Windsor Mann",
+            "size": 93733
+        },
+        {
+            "id": "brianstelter",
+            "name": "Brian Stelter",
+            "size": 780639
+        }
+    ],
+    "links": [
+        {
+            "source": "TedCruz",
+            "target": "TedCruz",
+            "weight": 1.0
+        },
+        {
+            "source": "TedCruz",
+            "target": "ClintSmithIII",
+            "weight": 0.384
+        },
+        {
+            "source": "TedCruz",
+            "target": "SethAbramson",
+            "weight": 0.316
+        },
+        {
+            "source": "TedCruz",
+            "target": "NBCNews",
+            "weight": 0.287
+        },
+        {
+            "source": "TedCruz",
+            "target": "RepAdamSchiff",
+            "weight": 0.203
+        },
+        {
+            "source": "TedCruz",
+            "target": "RepSwalwell",
+            "weight": 0.203
+        },
+        {
+            "source": "TedCruz",
+            "target": "RepJerryNadler",
+            "weight": 0.203
+        },
+        {
+            "source": "TedCruz",
+            "target": "RepMattGaetz",
+            "weight": 0.203
+        },
+        {
+            "source": "TedCruz",
+            "target": "politvidchannel",
+            "weight": 0.194
+        },
+        {
+            "source": "TedCruz",
+            "target": "RzstProgramming",
+            "weight": 0.189
+        },
+        {
+            "source": "TedCruz",
+            "target": "DonaldJTrumpJr",
+            "weight": 0.179
+        },
+        {
+            "source": "TedCruz",
+            "target": "MSNBC",
+            "weight": 0.175
+        },
+        {
+            "source": "TedCruz",
+            "target": "JennaEllisEsq",
+            "weight": 0.131
+        },
+        {
+            "source": "TedCruz",
+            "target": "jeneps",
+            "weight": 0.131
+        },
+        {
+            "source": "TedCruz",
+            "target": "tedlieu",
+            "weight": 0.126
+        },
+        {
+            "source": "TedCruz",
+            "target": "AnaCabrera",
+            "weight": 0.126
+        },
+        {
+            "source": "TedCruz",
+            "target": "kylegriffin1",
+            "weight": 0.126
+        },
+        {
+            "source": "TedCruz",
+            "target": "PossiblyBanksy",
+            "weight": 0.126
+        },
+        {
+            "source": "TedCruz",
+            "target": "AWeissmann_",
+            "weight": 0.126
+        },
+        {
+            "source": "TedCruz",
+            "target": "mmpadellan",
+            "weight": 0.126
+        },
+        {
+            "source": "TedCruz",
+            "target": "girlsreallyrule",
+            "weight": 0.126
+        },
+        {
+            "source": "TedCruz",
+            "target": "Harrowdown2018",
+            "weight": 0.12
+        },
+        {
+            "source": "TedCruz",
+            "target": "cindydinh7",
+            "weight": 0.12
+        },
+        {
+            "source": "TedCruz",
+            "target": "steandric",
+            "weight": 0.12
+        },
+        {
+            "source": "TedCruz",
+            "target": "bayou306",
+            "weight": 0.12
+        },
+        {
+            "source": "TedCruz",
+            "target": "PATPmovie",
+            "weight": 0.12
+        },
+        {
+            "source": "TedCruz",
+            "target": "AWDConservative",
+            "weight": 0.12
+        },
+        {
+            "source": "TedCruz",
+            "target": "reginaldelrodjr",
+            "weight": 0.12
+        },
+        {
+            "source": "TedCruz",
+            "target": "0bserv0r1",
+            "weight": 0.098
+        },
+        {
+            "source": "TedCruz",
+            "target": "albamonica",
+            "weight": 0.098
+        },
+        {
+            "source": "TedCruz",
+            "target": "neal_katyal",
+            "weight": 0.087
+        },
+        {
+            "source": "TedCruz",
+            "target": "ChadBuder",
+            "weight": 0.075
+        },
+        {
+            "source": "TedCruz",
+            "target": "KimReynoldsIA",
+            "weight": 0.072
+        },
+        {
+            "source": "TedCruz",
+            "target": "IAGovernor",
+            "weight": 0.072
+        },
+        {
+            "source": "TedCruz",
+            "target": "TheLeadCNN",
+            "weight": 0.072
+        },
+        {
+            "source": "TedCruz",
+            "target": "abbydphillip",
+            "weight": 0.072
+        },
+        {
+            "source": "TedCruz",
+            "target": "JFKucinich",
+            "weight": 0.072
+        },
+        {
+            "source": "TedCruz",
+            "target": "RubyforIowa",
+            "weight": 0.072
+        },
+        {
+            "source": "TedCruz",
+            "target": "markcstevens_",
+            "weight": 0.071
+        },
+        {
+            "source": "TedCruz",
+            "target": "MSFCC",
+            "weight": 0.071
+        },
+        {
+            "source": "TedCruz",
+            "target": "mtgreenee",
+            "weight": 0.067
+        },
+        {
+            "source": "TedCruz",
+            "target": "ericgarcetti",
+            "weight": 0.067
+        },
+        {
+            "source": "TedCruz",
+            "target": "RuhleOnMSNBC",
+            "weight": 0.067
+        },
+        {
+            "source": "TedCruz",
+            "target": "parentaction4ed",
+            "weight": 0.067
+        },
+        {
+            "source": "TedCruz",
+            "target": "RepMTG",
+            "weight": 0.067
+        },
+        {
+            "source": "TedCruz",
+            "target": "AOC",
+            "weight": 0.067
+        },
+        {
+            "source": "TedCruz",
+            "target": "MichaelCohen212",
+            "weight": 0.067
+        },
+        {
+            "source": "TedCruz",
+            "target": "Sflecce",
+            "weight": 0.067
+        },
+        {
+            "source": "TedCruz",
+            "target": "jheil",
+            "weight": 0.067
+        },
+        {
+            "source": "TedCruz",
+            "target": "SRuhle",
+            "weight": 0.067
+        },
+        {
+            "source": "TedCruz",
+            "target": "meiselasb",
+            "weight": 0.067
+        },
+        {
+            "source": "TedCruz",
+            "target": "davidmweissman",
+            "weight": 0.067
+        },
+        {
+            "source": "TedCruz",
+            "target": "ACTBrigitte",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "TeaPainUSA",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "BillKristol",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "guardiannews",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "mikedebonis",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "FoxNews",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "4TaxFairness",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "NikkiHaley",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "IndivisibleVent",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "AP",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "middleageriot",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "StevenBeschloss",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "nickakerman",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "Ordinary1World",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "VoteBetty",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "realPartyFight",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "RdotSpoon",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "1813Doncarlo",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "TheMike31",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "kwelkernbc",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "sayitnspinit",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "kaitlancollins",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "jaketapper",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "davenewworld_2",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "ThePubliusUSA",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "notivankabarron",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "Jim_Jordan",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "C_Sommerfeldt",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "frankthorp",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "ProjectLincoln",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "jigsawtman",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "newtgingrich",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "realDailyWire",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "LincolnsBible",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "nytimes",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "travisakers",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "VanityFair",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "WindsorMann",
+            "weight": 0.063
+        },
+        {
+            "source": "TedCruz",
+            "target": "brianstelter",
+            "weight": 0.063
+        }
+    ]
+}

@@ -38,30 +38,6 @@ layout = html.Div([
 
                      ),
             html.H2('Parler Topics & Networks'),
-        #  html.H2('Filters'),
-        #     dcc.Checklist(
-        #         id='rating-95',
-        #         options = [
-        #             {'label':'Only rating >= 95 ', 'value':'Y'}
-        #         ]
-        #     ),
-        # html.Div([
-        #     html.H5('Price Slider'),
-        #     dcc.RangeSlider(
-        #         id='price-slider',
-        #         min = 0,
-        #         max= 4000,
-        #         marks = {0: '$0',
-        #                     500: '$500',
-        #                     1000: '$1000',
-        #                     1500: '$1500',
-        #                     2000: '$2000',
-        #                     2500: '$2500',
-        #                     3000: '$3000',
-        #                    },
-        #         value = [0,3300]
-        #     )
-        # ]),
 
             html.Div([
                 html.H4('Live Twitter Feed'),

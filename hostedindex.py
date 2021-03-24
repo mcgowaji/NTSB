@@ -47,10 +47,6 @@ def update_tweet(n):
                     order by date desc
                     LIMIT 5;'''
     tweet_df = pd.read_sql(sql, conn)
-
-    # #Run Streaming script asynchronously to keep stream live
-    # script_fn = 'twitter_api.py'
-    # exec(open(script_fn).read())
     
     return html.Div([
                     html.P(tweet_df['text'][0])

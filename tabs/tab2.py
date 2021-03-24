@@ -7,7 +7,6 @@ import plotly.graph_objs as go
 from dash.dependencies import Input, Output
 import dash_table
 from app import app
-from database import transforms
 import networkx as nx
 
 first_graph = pd.read_json('graph_files/TedCruz_graph.json')

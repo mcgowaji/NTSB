@@ -60,7 +60,7 @@ def update_tweet(n):
                     order by date desc
                     LIMIT 5;'''
     tweet_df = pd.read_sql(sql, conn)
-    
+    print(tweet_df)
     return html.Div([
                     html.P(tweet_df['text'][0])
                     ,html.P(tweet_df['text'][1])
@@ -68,4 +68,4 @@ def update_tweet(n):
             ])
 
 if __name__ == '__main__':
-    app.run_server(debug = False, port = '8000')
+    app.run_server(debug = True, port = '8000')

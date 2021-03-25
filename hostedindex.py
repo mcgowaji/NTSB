@@ -14,19 +14,20 @@ from twitter_api import do_query
 import os
 
 #Create table before filling with streaming tweets
-threat_table = '''CREATE TABLE IF NOT EXISTS unique_threats (
-    tweet_id CHAR(19) PRIMARY KEY,
-    date TIMESTAMP,
-    username VARCHAR,
-    is_retweet BOOL,
-    is_quote BOOL,
-    text VARCHAR,
-    quoted_text VARCHAR,
-    hashtags TEXT []
-); 
-'''
-
-do_query(threat_table)
+#Run only once
+# threat_table = '''CREATE TABLE IF NOT EXISTS unique_threats (
+#     tweet_id CHAR(19) PRIMARY KEY,
+#     date TIMESTAMP,
+#     username VARCHAR,
+#     is_retweet BOOL,
+#     is_quote BOOL,
+#     text VARCHAR,
+#     quoted_text VARCHAR,
+#     hashtags TEXT []
+# );
+# '''
+#
+# do_query(threat_table)
 
 #Run Streaming script asynchronously for live updates
 script_fn = 'twitter_api.py'
@@ -68,4 +69,4 @@ def update_tweet(n):
             ])
 
 if __name__ == '__main__':
-    app.run_server(debug = True, port = '8000')
+    app.run_server(debug = True)

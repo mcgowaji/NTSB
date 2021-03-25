@@ -183,9 +183,7 @@ class StreamListener(tweepy.StreamListener):
                 # We have not reached the rate limit
         return True
 
-if __name__ == "__main__":
-    #Create table
-    do_query(threat_table)
+while True:
     # complete authorization and initialize API endpoint
     auth = tweepy.OAuthHandler(con_key, con_sec)
     auth.set_access_token(acc_key, acc_sec)

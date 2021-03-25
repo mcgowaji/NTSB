@@ -11,6 +11,7 @@ import networkx as nx
 
 first_graph = pd.read_json('graph_files/TedCruz_graph.json')
 first_nodes =  pd.DataFrame.from_records(first_graph['nodes'])
+
 graph_layout = go.Layout(
     paper_bgcolor='#d2d2d2', # transparent background
     plot_bgcolor='rgba(0,0,0,0)', # transparent 2nd background

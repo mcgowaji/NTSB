@@ -12,14 +12,14 @@ from app import app, server
 from tabs import sidepanel, tab1, tab2
 import os
 #import the API keys from the config file, or from Heroku config vars.
-try:
-    from config import dbname, db_user, host, db_password, sslmode
-except ModuleNotFoundError:
-    host = os.environ['HOST']
-    dbname = os.environ['DB_NAME']
-    db_user = os.environ['DB_USER']
-    db_password = os.environ['DB_PASSWORD']
-    sslmode = os.environ['SSL_MODE']
+# try:
+#     from config import dbname, db_user, host, db_password, sslmode
+# except ModuleNotFoundError:
+#     host = os.environ['HOST']
+#     dbname = os.environ['DB_NAME']
+#     db_user = os.environ['DB_USER']
+#     db_password = os.environ['DB_PASSWORD']
+#     sslmode = os.environ['SSL_MODE']
 
 #Run Streaming script asynchronously for live updates
 script_fn = 'twitter_api.py'
@@ -43,10 +43,9 @@ def render_content(tab):
               [Input('interval-component', 'n_intervals')])
 def update_tweet(n):
     # Construct connection string
-    conn_string = "dbname={} user={} host={} password={} port='5432' sslmode={}".format(
-        dbname, db_user, host, db_password, sslmode
-    )
-    conn = psycopg2.connect(conn_string)
+    DATABASE_URL = os.environ['DATABASE_URL']
+ 
+    conn = psycopg2.connect(DATABASE_URL, sslmode = 'require')
     cursor = conn.cursor()
     
     sql = '''select text from unique_threats
@@ -62,4 +61,4 @@ def update_tweet(n):
             ])
 
 if __name__ == '__main__':
-    app.run_server(debug = False)
+    app.run_server(debug = False, port = '8000')

@@ -15,19 +15,40 @@ import os
 try:
     from config import (
         con_key, con_sec, acc_key, acc_sec,
-    host, dbname, db_user, db_password, sslmode
     )
 except ModuleNotFoundError:
     con_key = os.environ['CON_KEY']
     con_sec = os.environ['CON_SEC']
     acc_key = os.environ['ACC_KEY']
     acc_sec = os.environ['ACC_SEC']
-    host = os.environ['HOST']
-    dbname = os.environ['DB_NAME']
-    db_user = os.environ['DB_USER']
-    db_password = os.environ['DB_PASSWORD']
-    sslmode = os.environ['SSL_MODE']
-    
+
+threat_table = '''CREATE TABLE IF NOT EXISTS unique_threats (
+    tweet_id CHAR(19) PRIMARY KEY,
+    date TIMESTAMP,
+    username VARCHAR,
+    is_retweet BOOL,
+    is_quote BOOL,
+    text VARCHAR,
+    quoted_text VARCHAR,
+    hashtags TEXT []
+); 
+'''
+
+def do_query(query_string, *args):
+    '''Opens access to Heroku Postgres, executes query,
+    commits results, and closes connection.'''
+    # Construct connection string and cursor
+    DATABASE_URL = os.environ['DATABASE_URL']
+    conn = psycopg2.connect(DATABASE_URL, sslmode = 'require')
+    cursor = conn.cursor()
+
+    cursor.execute(query_string, *args)
+    # Clean up and close out
+    conn.commit()
+    print('Changes saved.')
+    cursor.close()
+    conn.close()
+    print('Closing out...')
 
 #Popular hashtags extracted from Parler Dataset
 popular = [
@@ -58,15 +79,9 @@ class StreamListener(tweepy.StreamListener):
         self.api = api
         self.counter = 0
         self.stop = stop
-        # Construct connection string
-        conn_string = "dbname={} user={} host={} password={} port='5432' sslmode={}".format(
-            dbname, db_user, host, db_password, sslmode
-        )
-        self.conn = psycopg2.connect(conn_string)
+        DATABASE_URL = os.environ['DATABASE_URL']
+        self.conn = psycopg2.connect(DATABASE_URL, sslmode='require')
         self.cursor = self.conn.cursor()
-
-    #         self.cache = tc.twitter_cache()
-    #         self.cache.clean_allcache()
 
     def db_initpop(self, bundle):
         """
@@ -112,15 +127,6 @@ class StreamListener(tweepy.StreamListener):
             else:
                 quoted_text = status.quoted_status.text
 
-        #         # remove characters that might cause problems with csv encoding
-        #         remove_characters = [",","\n"]
-        #         for c in remove_characters:
-        #             text.replace(c," ")
-        #             quoted_text.replace(c, " ")
-
-        # #         # Encode strings to avoid emojis/special characters
-        # #         text = text.encode('ascii', 'ignore')
-        # #         quoted_text = quoted_text.encode('ascii', 'ignore')
         print(status.text)
         print('language: ', status.lang)
         print('\n')
@@ -178,6 +184,8 @@ class StreamListener(tweepy.StreamListener):
         return True
 
 if __name__ == "__main__":
+    #Create table
+    do_query(threat_table)
     # complete authorization and initialize API endpoint
     auth = tweepy.OAuthHandler(con_key, con_sec)
     auth.set_access_token(acc_key, acc_sec)

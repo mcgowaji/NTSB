@@ -1,2 +1,1 @@
-web: gunicorn hostedindex:server
-worker: python twitter_api.py
+web: gunicorn hostedindex:server & twitter_api & wait -n

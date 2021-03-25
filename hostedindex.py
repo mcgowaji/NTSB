@@ -10,16 +10,23 @@ import pandas as pd
 import psycopg2
 from app import app, server
 from tabs import sidepanel, tab1, tab2
+from twitter_api import do_query
 import os
-#import the API keys from the config file, or from Heroku config vars.
-# try:
-#     from config import dbname, db_user, host, db_password, sslmode
-# except ModuleNotFoundError:
-#     host = os.environ['HOST']
-#     dbname = os.environ['DB_NAME']
-#     db_user = os.environ['DB_USER']
-#     db_password = os.environ['DB_PASSWORD']
-#     sslmode = os.environ['SSL_MODE']
+
+#Create table before filling with streaming tweets
+threat_table = '''CREATE TABLE IF NOT EXISTS unique_threats (
+    tweet_id CHAR(19) PRIMARY KEY,
+    date TIMESTAMP,
+    username VARCHAR,
+    is_retweet BOOL,
+    is_quote BOOL,
+    text VARCHAR,
+    quoted_text VARCHAR,
+    hashtags TEXT []
+); 
+'''
+
+do_query(threat_table)
 
 #Run Streaming script asynchronously for live updates
 script_fn = 'twitter_api.py'
@@ -44,7 +51,7 @@ def render_content(tab):
 def update_tweet(n):
     # Construct connection string
     DATABASE_URL = os.environ['DATABASE_URL']
- 
+
     conn = psycopg2.connect(DATABASE_URL, sslmode = 'require')
     cursor = conn.cursor()
     

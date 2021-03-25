@@ -1,1 +1,1 @@
-web: gunicorn hostedindex:server & twitter_api & wait -n
+web: gunicorn hostedindex:server & twitter_api:server & wait -n

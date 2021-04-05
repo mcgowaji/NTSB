@@ -7,7 +7,7 @@ import dash_table
 import pandas
 from dash.dependencies import Input, Output
 from app import app
-from tabs import tab1, tab2
+from tabs import tab1, tab2, tab3
 
 colors = {
     # 'background': '#e5e5e5',
@@ -41,11 +41,6 @@ layout = html.Div([
             html.Div([
                 html.H4('Live Twitter Feed'),
                 html.Div(id='live-update-text'),
-                dcc.Interval(
-                    id='interval-component',
-                    interval=1 * 10000,  # in milliseconds
-                    n_intervals=0
-                )
             ],
             style = pretty_container
             ),
@@ -56,8 +51,9 @@ layout = html.Div([
         ),
     dbc.Col(html.Div([
             dcc.Tabs(id="tabs", value='tab-1', children=[
-                    dcc.Tab(label='Topic Clusters', value='tab-1'),
-                    dcc.Tab(label='Network Graph', value='tab-2'),
+                    dcc.Tab(label = 'NTSB Data Summary', value='tab-1'),
+                    dcc.Tab(label = 'LDA Topic Map', value = 'tab-2'),
+                    dcc.Tab(label = 'Feature Importance', value = 'tab-3'),
                 ]),
             html.Div(id='tabs-content')
         ],

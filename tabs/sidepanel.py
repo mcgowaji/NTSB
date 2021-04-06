@@ -28,7 +28,6 @@ pretty_container = {
 }
 
 layout = html.Div([
-
     dbc.Row([
         dbc.Col(
             html.Div([
@@ -49,17 +48,18 @@ layout = html.Div([
             style={'marginBottom': 50, 'marginTop': 25, 'marginLeft':15, 'marginRight':15}),
             width=3
         ),
-    dbc.Col(html.Div([
-            dcc.Tabs(id="tabs", value='tab-1', children=[
-                    dcc.Tab(label = 'NTSB Data Summary', value='tab-1'),
-                    dcc.Tab(label = 'LDA Topic Map', value = 'tab-2'),
-                    dcc.Tab(label = 'Feature Importance', value = 'tab-3'),
-                ]),
+        dbc.Col(
+            html.Div([
+                dcc.Tabs(id="tabs", value='tab-1', children=[
+                        dcc.Tab(label = 'NTSB Data Summary', value='tab-1'),
+                        dcc.Tab(label = 'LDA Topic Map', value = 'tab-2'),
+                        dcc.Tab(label = 'Feature Importance', value = 'tab-3'),
+                    ]),
             html.Div(id='tabs-content')
         ],
         style={'marginTop': 15, 'marginLeft': 15, 'marginRight': 15}),
         width=9
-    )
+        )
     ]),
 ])
 
